@@ -1,11 +1,1 @@
-[
-  {
-    "title": "Example FOA title",
-    "agency": "NIH",
-    "instrument": "R01",
-    "number": "RFA-XX-000",
-    "close_date": "2026-12-31",
-    "synopsis": "Example synopsis. Replace with Grants.gov API output.",
-    "url": "https://www.grants.gov/"
-  }
-]
+[]
