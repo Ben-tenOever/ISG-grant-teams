@@ -1,1 +1,296 @@
-[]
+[
+  {
+    "team_type": "pair",
+    "team_name": "Plant Genome Synthetic Loci Pair",
+    "opportunity_id": 352500,
+    "opportunity_number": "24-547",
+    "opportunity_title": "Plant Genome Research Program",
+    "members": [
+      "Jef D. Boeke",
+      "Ran Brosh"
+    ],
+    "rationale": "The Plant Genome Research Program encourages genome-scale questions and tool or resource development that enable a broad community. Boeke and Brosh bring complementary large-DNA assembly, landing-pad integration, and genome-writing pipelines that could be adapted to build and test large plant regulatory loci or engineered genome segments at scale. This pairing is well suited to a TRTech-style proposal focused on enabling technologies, resources, and reproducible workflows for plant genomics.",
+    "suggested_specific_aim": "Develop and validate a scalable genome-writing and locus-replacement toolkit for large plant genomic regions, enabling systematic testing of regulatory architecture and transposable element effects.",
+    "next_steps": [
+      "Decide whether the application fits RESEARCH-PGR or TRTech-PGR and draft a one-page concept accordingly",
+      "Identify a plant system and a genome-scale question where large-locus engineering is uniquely enabling",
+      "Contact the PGRP program director to confirm scope and expectations for tool/resource deliverables"
+    ],
+    "confidence": 0.78
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Plant Genome TE Regulation Pair",
+    "opportunity_id": 352500,
+    "opportunity_number": "24-547",
+    "opportunity_title": "Plant Genome Research Program",
+    "members": [
+      "Paolo Mita",
+      "Molly Gale Hammell"
+    ],
+    "rationale": "PGRP supports genome-scale research and resources that empower functional genomics, including studies of transposable elements and genome regulation. Mita and Hammell both focus on transposable element biology and its regulatory consequences, with Hammell adding quantitative genomics and tool development. This pairing could frame a plant-focused, genome-scale TE regulation project or a cross-cutting analytic resource to map TE-derived regulatory effects.",
+    "suggested_specific_aim": "Create genome-scale computational and experimental frameworks to quantify how transposable elements shape regulatory programs and stress-responsive gene expression in a plant model.",
+    "next_steps": [
+      "Select a plant TE family and define a genome-wide functional genomics strategy and deliverable dataset/resource",
+      "Outline tool development components that improve accessibility and reuse by the plant community",
+      "Confirm alignment with PGRP expectations for data usability, accessibility, and community impact"
+    ],
+    "confidence": 0.65
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Plant Genome Quantitative Omics Pair",
+    "opportunity_id": 352500,
+    "opportunity_number": "24-547",
+    "opportunity_title": "Plant Genome Research Program",
+    "members": [
+      "David Fenyo",
+      "Molly Gale Hammell"
+    ],
+    "rationale": "PGRP emphasizes data integration across scales and creativity of genome-wide approaches. Fenyo contributes multimodal integration, machine learning, and statistical evaluation frameworks, while Hammell brings quantitative genomics and TE-focused genetic and molecular insights. Together they can deliver a high-impact analytic resource that integrates sequencing-based and other omics measurements into interpretable, reusable genome-scale models for the plant community.",
+    "suggested_specific_aim": "Develop open, benchmarked computational methods for integrating genome-scale plant omics data to infer regulatory mechanisms and predict genotype-to-phenotype relationships.",
+    "next_steps": [
+      "Define a concrete set of plant datasets and a benchmark question that exposes current method gaps",
+      "Plan software, documentation, and data standards that maximize community reuse",
+      "Align training and broadening participation components with PGRP priorities"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "team_type": "team",
+    "team_name": "Plant Genome Writing and TE Systems Team",
+    "opportunity_id": 352500,
+    "opportunity_number": "24-547",
+    "opportunity_title": "Plant Genome Research Program",
+    "members": [
+      "Jef D. Boeke",
+      "Ran Brosh",
+      "Molly Gale Hammell",
+      "Paolo Mita"
+    ],
+    "rationale": "PGRP values genome-scale questions and innovative tools and resources. Boeke and Brosh provide scalable genome-writing and locus engineering workflows, while Hammell and Mita provide TE-centric regulatory biology and quantitative genomics. Together they can propose an enabling platform that rewrites large plant loci and systematically tests TE insertions or regulatory architectures to produce community resources and mechanistic insight.",
+    "suggested_specific_aim": "Build a genome-writing platform for large plant loci and use it to systematically test how transposable element insertions and regulatory architecture control gene expression and stress responses at genome scale.",
+    "next_steps": [
+      "Choose a plant model and a flagship locus or locus class for a compelling genome-scale demonstration",
+      "Define deliverables: engineered constructs, protocols, datasets, and open analysis pipelines",
+      "Coordinate a community-facing plan for distribution, training, and standards to maximize adoption"
+    ],
+    "confidence": 0.72
+  },
+  {
+    "team_type": "team",
+    "team_name": "Plant Genome Data and Engineering Integration Team",
+    "opportunity_id": 352500,
+    "opportunity_number": "24-547",
+    "opportunity_title": "Plant Genome Research Program",
+    "members": [
+      "David Fenyo",
+      "Molly Gale Hammell",
+      "Jef D. Boeke"
+    ],
+    "rationale": "PGRP highlights integrated, usable datasets and transformative approaches. Fenyo and Hammell provide genome-scale modeling, algorithm development, and TE-related regulatory interpretation, while Boeke provides large-scale genome engineering approaches that can generate decisive perturbation datasets. This combination supports a proposal pairing tool development with a high-impact experimental resource that validates predictive regulatory models.",
+    "suggested_specific_aim": "Create experimentally grounded predictive models of plant regulatory architecture by coupling genome-scale data integration with targeted large-locus engineering perturbations.",
+    "next_steps": [
+      "Define a specific modeling target and an engineering perturbation set that yields decisive validation",
+      "Specify reproducible pipelines, benchmarks, and data standards for broad community reuse",
+      "Clarify whether the proposal emphasizes RESEARCH-PGR or TRTech-PGR deliverables"
+    ],
+    "confidence": 0.6
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Plant Biotic Interactions Genomic Tools Pair",
+    "opportunity_id": 327047,
+    "opportunity_number": "20-576",
+    "opportunity_title": "Plant Biotic Interactions",
+    "members": [
+      "Molly Gale Hammell",
+      "David Fenyo"
+    ],
+    "rationale": "The Plant Biotic Interactions program supports mechanistic studies and encourages quantitative modeling in concert with experiments, including plant-associated microbiomes and host–pathogen dynamics. Hammell provides quantitative genomics and RNA biology expertise relevant to genome-scale interaction readouts, while Fenyo contributes rigorous multi-omics integration and machine learning to model interaction outcomes. This pairing is well suited to a genome-wide, mechanistic, data-rich PBI proposal.",
+    "suggested_specific_aim": "Develop quantitative, genome-wide models that link plant genetic variation and regulatory programs to outcomes of host–microbe and host–pathogen interactions.",
+    "next_steps": [
+      "Select a specific plant interaction system and define mechanistic hypotheses and measurable outcomes",
+      "Outline the integrated experimental and modeling workflow, including validation experiments",
+      "Ensure the proposal is not purely ecological by emphasizing molecular and genomic mechanisms"
+    ],
+    "confidence": 0.55
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Plant Biotic Interactions Genome Engineering Pair",
+    "opportunity_id": 327047,
+    "opportunity_number": "20-576",
+    "opportunity_title": "Plant Biotic Interactions",
+    "members": [
+      "Jef D. Boeke",
+      "Ran Brosh"
+    ],
+    "rationale": "PBI welcomes mechanistic studies and tool development when justified by biological processes and relevance to agriculture. Boeke and Brosh bring large-payload genome engineering and iterative locus rewriting capabilities that could be adapted to engineer plant immunity loci or regulatory regions controlling interaction outcomes. A strong fit would emphasize how genome-scale engineering enables causal tests of host genetic determinants of biotic interactions.",
+    "suggested_specific_aim": "Engineer and systematically rewrite key plant interaction loci to causally test how regulatory architecture shapes host responses to pathogens or beneficial symbionts.",
+    "next_steps": [
+      "Choose a plant system and a well-motivated interaction locus set linked to measurable phenotypes",
+      "Define engineering feasibility and validation steps for plant genome modification workflows",
+      "Coordinate with PBI program staff to confirm that tool development is appropriately integrated with mechanistic discovery"
+    ],
+    "confidence": 0.5
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Plant Biotic Interactions TE and Immunity Pair",
+    "opportunity_id": 327047,
+    "opportunity_number": "20-576",
+    "opportunity_title": "Plant Biotic Interactions",
+    "members": [
+      "Paolo Mita",
+      "Molly Gale Hammell"
+    ],
+    "rationale": "PBI supports studies spanning molecular and genomic mechanisms of plant interactions and welcomes modeling with experiments. Mita and Hammell bring transposable element regulation and RNA biology expertise that can be applied to how TE-derived regulatory sequences influence plant immune gene expression and interaction outcomes. This pairing supports a mechanistic project linking TE activity to host defense programs.",
+    "suggested_specific_aim": "Define how transposable element–derived regulatory sequences modulate plant immune gene programs and thereby shape outcomes of host–pathogen interactions.",
+    "next_steps": [
+      "Select a plant model and define TE families and immune pathways to interrogate",
+      "Plan genome-wide assays plus targeted perturbations to establish causality",
+      "Frame relevance to agriculture and mechanism-focused deliverables consistent with PBI priorities"
+    ],
+    "confidence": 0.58
+  },
+  {
+    "team_type": "team",
+    "team_name": "Plant Biotic Interactions Systems Genomics Team",
+    "opportunity_id": 327047,
+    "opportunity_number": "20-576",
+    "opportunity_title": "Plant Biotic Interactions",
+    "members": [
+      "Molly Gale Hammell",
+      "David Fenyo",
+      "Liam Holt"
+    ],
+    "rationale": "PBI encourages quantitative modeling paired with experiments to understand complex interaction dynamics. Hammell and Fenyo provide quantitative genomics and integrative modeling, while Holt contributes systems-level understanding of cellular state and stress signaling, which can be translated into hypotheses about host responses during interactions. This team can propose a mechanistic, multi-omics systems framework to map interaction-driven state transitions.",
+    "suggested_specific_aim": "Build an integrative, mechanistic systems genomics framework to model host cellular state transitions during plant biotic interactions and predict determinants of beneficial versus pathogenic outcomes.",
+    "next_steps": [
+      "Define a concrete interaction time course design and key measurable molecular phenotypes",
+      "Specify modeling outputs and prospective validations using perturbations",
+      "Ensure the biology remains plant-focused while using generalizable systems principles"
+    ],
+    "confidence": 0.42
+  },
+  {
+    "team_type": "team",
+    "team_name": "Plant Biotic Interactions Genome Writing and Modeling Team",
+    "opportunity_id": 327047,
+    "opportunity_number": "20-576",
+    "opportunity_title": "Plant Biotic Interactions",
+    "members": [
+      "Jef D. Boeke",
+      "Ran Brosh",
+      "Molly Gale Hammell",
+      "David Fenyo"
+    ],
+    "rationale": "This program supports mechanistic studies and welcomes quantitative modeling with experiments. Boeke and Brosh can provide genome-scale engineering concepts to perturb host loci, while Hammell and Fenyo provide genomics and modeling to quantify outcomes and infer mechanisms. A compelling angle is causal genome-scale tests of host determinants of interaction outcomes, with reusable tools and datasets.",
+    "suggested_specific_aim": "Create a causal systems-genomics framework for plant biotic interactions by combining targeted locus-scale genome engineering with quantitative multi-omics modeling of interaction outcomes.",
+    "next_steps": [
+      "Select the plant interaction system and define a manageable set of engineered perturbations",
+      "Define the multi-omics readouts and a pre-specified modeling and validation plan",
+      "Confirm programmatic fit emphasizing molecular mechanisms rather than ecological description"
+    ],
+    "confidence": 0.47
+  },
+  {
+    "team_type": "pair",
+    "team_name": "IOS Core Integrative Modeling Pair",
+    "opportunity_id": 352499,
+    "opportunity_number": "24-546",
+    "opportunity_title": "Division of Integrative Organismal Systems Core Programs",
+    "members": [
+      "David Fenyo",
+      "Molly Gale Hammell"
+    ],
+    "rationale": "IOS core programs welcome systems approaches, integrated analysis, and advanced computation to produce holistic understanding across scales. Fenyo and Hammell together provide strong computational and quantitative genetics capability to integrate genome-scale data and build predictive models of emergent properties. A strong proposal would select a specific organismal question and provide mechanistic and computational innovation rather than purely descriptive omics.",
+    "suggested_specific_aim": "Develop integrated computational and experimental strategies to predict organismal phenotypes from genome-scale regulatory and genetic variation data in a defined biological question.",
+    "next_steps": [
+      "Choose a specific IOS core area and a flagship organismal hypothesis that benefits from systems modeling",
+      "Define multi-scale datasets and a validation plan that connects molecular to organismal outcomes",
+      "Engage IOS program staff to confirm the appropriate core program area and fit"
+    ],
+    "confidence": 0.52
+  },
+  {
+    "team_type": "pair",
+    "team_name": "IOS Core Genome Engineering Pair",
+    "opportunity_id": 352499,
+    "opportunity_number": "24-546",
+    "opportunity_title": "Division of Integrative Organismal Systems Core Programs",
+    "members": [
+      "Jef D. Boeke",
+      "Ran Brosh"
+    ],
+    "rationale": "IOS core programs support understanding of organism structure and function, and the solicitation notes interest in integrated approaches and cutting-edge tools. Boeke and Brosh can propose locus-scale genome engineering and synthetic regulatory genomics as enabling tools to test organismal hypotheses, especially in plant and animal genomics and development. The project must clearly connect engineered perturbations to organismal function and emergent properties.",
+    "suggested_specific_aim": "Develop and apply locus-scale genome engineering tools to test how regulatory genome architecture shapes organismal traits and environmental responses in a defined model organism.",
+    "next_steps": [
+      "Identify the IOS program area and organismal trait that will be directly interrogated",
+      "Define engineering feasibility and the experimental strategy linking genotype perturbations to organismal phenotype",
+      "Clarify integrative analysis and modeling components to match IOS expectations"
+    ],
+    "confidence": 0.45
+  },
+  {
+    "team_type": "pair",
+    "team_name": "IOS Core Cell Physics and State Pair",
+    "opportunity_id": 352499,
+    "opportunity_number": "24-546",
+    "opportunity_title": "Division of Integrative Organismal Systems Core Programs",
+    "members": [
+      "Liam Holt",
+      "Molly Gale Hammell"
+    ],
+    "rationale": "IOS supports studies spanning from molecules to cells to organisms and encourages integrated approaches. Holt provides quantitative cell biophysics and stress signaling frameworks that can be linked to organismal physiological responses, while Hammell provides quantitative genomics and regulatory analysis. This pairing can propose an integrated cell-physics-plus-genomics approach to understand emergent organismal responses to environmental stressors.",
+    "suggested_specific_aim": "Define how cell biophysical state variables such as crowding, pH, and condensation couple to genome-wide regulatory programs to drive organismal stress adaptation.",
+    "next_steps": [
+      "Choose a model organism and an IOS-relevant stress physiology question",
+      "Define measurable cell-state variables and transcriptomic or regulatory readouts",
+      "Position the integrated approach as yielding general theory and predictive insight"
+    ],
+    "confidence": 0.41
+  },
+  {
+    "team_type": "team",
+    "team_name": "IOS Integrative Genome Architecture Team",
+    "opportunity_id": 352499,
+    "opportunity_number": "24-546",
+    "opportunity_title": "Division of Integrative Organismal Systems Core Programs",
+    "members": [
+      "Jef D. Boeke",
+      "Ran Brosh",
+      "Molly Gale Hammell",
+      "David Fenyo"
+    ],
+    "rationale": "The IOS IntBIO track invites collaborative proposals tackling bold questions using integrated approaches across scales. Boeke and Brosh provide the ability to engineer and rewrite regulatory genome architecture, while Hammell and Fenyo provide quantitative genomics and integrative modeling to connect molecular perturbations to emergent organismal properties. This supports an integrative genome-architecture-to-phenotype program with both tool building and biological discovery.",
+    "suggested_specific_aim": "Build an integrative framework that combines locus-scale genome rewriting with quantitative multi-omics modeling to predict how regulatory architecture changes drive organismal traits and stress responses.",
+    "next_steps": [
+      "Select a focused organismal trait and define a minimal set of engineered perturbations to test predictions",
+      "Specify multi-scale readouts and a pre-registered modeling and validation plan",
+      "Coordinate early with IOS program staff on placement within a specific core area or IntBIO"
+    ],
+    "confidence": 0.49
+  },
+  {
+    "team_type": "team",
+    "team_name": "IOS Quantitative Cell State and Regulation Team",
+    "opportunity_id": 352499,
+    "opportunity_number": "24-546",
+    "opportunity_title": "Division of Integrative Organismal Systems Core Programs",
+    "members": [
+      "Liam Holt",
+      "David Fenyo",
+      "Molly Gale Hammell"
+    ],
+    "rationale": "IOS welcomes integrated approaches and advanced computation to reveal emergent properties from molecules to organisms. Holt contributes quantitative measures of cellular physical state and signaling, while Fenyo and Hammell contribute integrative modeling and genome-wide regulatory inference. The team can propose a systems framework linking measurable cell biophysics to regulatory programs and organism-level outcomes.",
+    "suggested_specific_aim": "Develop predictive models that connect quantitative cell biophysical state measurements to genome-wide regulatory programs and organismal stress phenotypes in a defined model system.",
+    "next_steps": [
+      "Define the organism and an IOS-relevant phenotype with scalable measurements",
+      "Design experiments pairing cell-state metrics with genome-wide profiling across perturbations",
+      "Align the proposal as hypothesis-driven, integrative, and producing generalizable insight"
+    ],
+    "confidence": 0.44
+  }
+]
