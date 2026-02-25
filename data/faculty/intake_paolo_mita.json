@@ -1,0 +1,25 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_paolo_mita",
+  "name": "Paolo Mita",
+  "name_canonical": "Paolo Mita",
+  "title": "Research Assistant Professor",
+  "affiliations": [
+    "Biochemistry and Molecular Pharmacology",
+    "Institute for Systems Genetics (ISG)",
+    "Microbiology"
+  ],
+  "affiliations_raw": "ISG and dept of microbiology and molecular pharmacology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as \u201cjumping genes.\u201d DNA transposons use a \u201ccut and paste\u201d mechanism to move within a host genome while retrotransposons increase their amount using a \u201ccopy and paste\u201d process.  My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.   I seek to advance the basic understanding of L1 retrotransposon physiology in human cells and explore its role in human diseases and processes, such as cancer, aging and wound healing. Specifically, we aim to identify and study the impact of L1 proteins, mRNA expression and activity on a variety of cellular mechanisms, including DNA damage and replication, cellular ploidy during tumor evolution, viral sensing pathways, and the deregulation of tumor suppressors and oncogenes.   To achieve these goals, we use a multidisciplinary approach that integrates genetic, microscopy, and proteomic techniques in both in vitro and in vivo mouse models. By leveraging these tools, we are mechanistically characterizing the impact of L1 on cellular physiology. This knowledge has the potential to inform the development of novel therapeutic and diagnostic approaches, thereby contributing to improved clinical outcomes.  More recently I am also involved in the development and implementation of new synthetic biology and cell engineering approaches applied to the protection and restoration of endangered bird species.",
+  "common_experiments_raw": "Cell culture \nWestern blotting\nLINE-1 retrotransposition assays\ncell cycle measurement\naneuploidy quantification\ngrowth assays\nscratch assays\nimmunofluorescence\nmammary fat pad injection\nCRISPR screens\ngenome engineering\nproteins over-expression\ngene knock down \ncell sorting\nflow cytometry measurements",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [],
+  "publications": [],
+  "id": "intake_paolo_mita",
+  "department_site": "Institute for Systems Genetics",
+  "keywords": [],
+  "summary": "Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as \u201cjumping genes.\u201d DNA transposons use a \u201ccut and paste\u201d mechanism to move within a host genome while retrotransposons increase their amount using a \u201ccopy and paste\u201d process.  My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.   I seek to advance the basic understanding of L1 retrotransposon physiology in human cells and explore its role in human diseases and processes, such as cancer, aging and wound healing. Specifically, we aim to identify and study the impact of L1 proteins, mRNA expression and activity on a variety of cellular mechanisms, including DNA damage and replication, cellular ploidy during tumor evolution, viral sensing pathways, and the deregulation of tumor suppressors and oncogenes.   To achieve these goals, we use a multidisciplinary approach that integrates genetic, microscopy, and proteomic techniques in both in vitro and in vivo mouse models. By leveraging these tools, we are mechanistically characterizing the impact of L1 on cellular physiology. This knowledge has the potential to inform the development of novel therapeutic and diagnostic approaches, thereby contributing to improved clinical outcomes.  More recently I am also involved in the development and implementation of new synthetic biology and cell engineering approaches applied to the protection and restoration of endangered bird species."
+}

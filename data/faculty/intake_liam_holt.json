@@ -1,0 +1,62 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_liam_holt",
+  "name": "Liam Holt",
+  "name_canonical": "Liam Holt",
+  "title": "Associate Professor",
+  "affiliations": [
+    "Institute for Systems Genetics (ISG)"
+  ],
+  "affiliations_raw": "Institute for Systems Genetics (ISG)",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "The Holt Lab studies how the physical state of the cell interior shapes information flow, with an emphasis on macromolecular crowding, intracellular pH, and biomolecular condensation. Using quantitative cell biology and synthetic biology, the group tests how phase separated condensates modulate kinase driven phosphoregulation, expand substrate specificity, and convert biophysical cues into chemical signals. In parallel, the lab investigates stress and nutrient signaling in yeast, including how mTORC1 tunes ribosome abundance to control cytoplasmic diffusion and phase separation, and how carbon starvation drives pH dependent transcriptional reprogramming through SWI SNF recruitment. Across these programs, the lab builds and applies genetically encoded multimeric nanoparticles for in cell microrheology and single particle tracking, combines these measurements with genome wide expression profiling and reconstituted biochemical assays, and integrates mechanistic modeling and simulations to link molecular crowding and condensation to gene regulation and signaling.",
+  "common_experiments_raw": "GEMs-Based Microrheology\n* Genetically encoded nanoparticle tracking to measure intracellular viscoelasticity, crowding, and active matter across organelles\nMechanical Perturbation Systems\n* Compression devices, tunable synthetic hydrogels, and osmotic manipulation to control cellular mechanical environment\nLive-Cell Single-Particle Tracking\n* High-throughput fluorescence microscopy with computational analysis of molecular diffusion and dynamics\nSynthetic Biology & Protein Engineering\n* Design of synthetic condensates (SynDrops), engineered transcription factors, and AI-designed proteins\nReal-Time Metabolic Biosensors\n* ATP and pH sensors for live monitoring of cellular energetics",
+  "research_keywords": [
+    "Biomolecular condensates and phase separation as regulators of kinase signaling and phosphoregulation",
+    "Macromolecular crowding as a tunable cellular signal and determinant of reaction rates and diffusion",
+    "mTORC1 control of cytoplasmic biophysics through ribosome concentration and mesoscale crowding",
+    "Genetically encoded multimeric nanoparticles for high throughput microrheology and particle tracking in living cells",
+    "Carbon starvation and intracellular pH dynamics as signals driving transcriptional reprogramming in yeast",
+    "SWI SNF chromatin remodeling recruitment controlled by a pH sensitive low complexity domain in SNF5",
+    "Synthetic condensate design rules, scaffold flexibility, and client recruitment controlling signaling efficiency",
+    "Quantitative integration of imaging, biochemistry, and modeling to connect cell physics to gene regulation"
+  ],
+  "experimental_capabilities": [
+    "Live cell fluorescence microscopy, time lapse imaging, and quantitative image analysis",
+    "Single particle tracking, microrheology, and diffusion measurements using genetically encoded nanoparticles",
+    "Synthetic biology for engineered condensates, multivalent scaffolds, and phosphoregulation reporters",
+    "Yeast genetics and nutrient or stress perturbation assays",
+    "RNA seq and genome wide transcriptional profiling under starvation and stress conditions",
+    "In vitro chromatin remodeling and nucleosome remodeling assays with purified SWI SNF components and activators",
+    "In vitro kinase assays and phosphorylation readouts for condensate dependent signaling",
+    "Biophysical modeling and simulations of low complexity domains and crowding driven conformational changes",
+    "Microfabrication and microfluidics for controlled confinement and physical perturbations, including pressure measurements"
+  ],
+  "model_systems": [
+    "Saccharomyces cerevisiae for nutrient stress, pH sensing, chromatin remodeling, and cytoplasmic biophysics",
+    "Mammalian cultured cells for engineered condensates and kinase signaling assays",
+    "Purified biochemical systems for nucleosome remodeling and controlled kinase phosphorylation measurements"
+  ],
+  "focus_groups": [],
+  "publications": [
+    "2024-Xie-Polysome-MolCell_anonymous.pdf",
+    "2022-Sang-MolCell_anonymous.pdf",
+    "2022-Gutierrez-eLife_anonymous.pdf",
+    "2022-Alric-Nature-Physics_anonymous.pdf",
+    "2018-Delarue-Cell_anonymous.pdf"
+  ],
+  "specialty_areas": "Biophysics of signaling / biomolecular condensates / gene regulation under stress",
+  "id": "intake_liam_holt",
+  "department_site": "Institute for Systems Genetics",
+  "keywords": [
+    "Biomolecular condensates and phase separation as regulators of kinase signaling and phosphoregulation",
+    "Macromolecular crowding as a tunable cellular signal and determinant of reaction rates and diffusion",
+    "mTORC1 control of cytoplasmic biophysics through ribosome concentration and mesoscale crowding",
+    "Genetically encoded multimeric nanoparticles for high throughput microrheology and particle tracking in living cells",
+    "Carbon starvation and intracellular pH dynamics as signals driving transcriptional reprogramming in yeast",
+    "SWI SNF chromatin remodeling recruitment controlled by a pH sensitive low complexity domain in SNF5",
+    "Synthetic condensate design rules, scaffold flexibility, and client recruitment controlling signaling efficiency",
+    "Quantitative integration of imaging, biochemistry, and modeling to connect cell physics to gene regulation"
+  ],
+  "summary": "The Holt Lab studies how the physical state of the cell interior shapes information flow, with an emphasis on macromolecular crowding, intracellular pH, and biomolecular condensation. Using quantitative cell biology and synthetic biology, the group tests how phase separated condensates modulate kinase driven phosphoregulation, expand substrate specificity, and convert biophysical cues into chemical signals. In parallel, the lab investigates stress and nutrient signaling in yeast, including how mTORC1 tunes ribosome abundance to control cytoplasmic diffusion and phase separation, and how carbon starvation drives pH dependent transcriptional reprogramming through SWI SNF recruitment. Across these programs, the lab builds and applies genetically encoded multimeric nanoparticles for in cell microrheology and single particle tracking, combines these measurements with genome wide expression profiling and reconstituted biochemical assays, and integrates mechanistic modeling and simulations to link molecular crowding and condensation to gene regulation and signaling."
+}

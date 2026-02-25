@@ -1,0 +1,122 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_david_fenyo",
+  "name": "David Fenyo",
+  "name_canonical": "David Fenyo",
+  "title": "Professor",
+  "affiliations": [
+    "Biochemistry and Molecular Pharmacology",
+    "Institute for Systems Genetics (ISG)"
+  ],
+  "affiliations_raw": "Institute for Systems Genetics",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies\u2014including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions. I apply these computational methods to solve practical problems in experimental design optimization and quantitative data analysis. A large portion of my work has been on proteomic data analysis: I established a statistical basis for testing the significance of protein identification results, developed computational methods and databases for protein identification, quantitation and characterization of post-translational modifications and interaction, and applied machine learning to build predictive models. I am currently focusing on developing methods for integrating multi-modal data\u2014including multi-omics, imaging and text data\u2014 which have provided a wide array of powerful tools for discovery and verify biomarkers and therapeutic targets in cancer. I am applying multi-omics approaches to better understand tumor biology with a focus on improving patient treatment.",
+  "common_experiments_raw": "Computational analysis of omics and imaging data",
+  "research_keywords": [
+    "proteomics",
+    "multi-omics integration",
+    "proteogenomics",
+    "machine learning",
+    "deep learning",
+    "computational pathology",
+    "multiplexed imaging",
+    "spatial omics",
+    "cancer biology",
+    "immune regulation"
+  ],
+  "experimental_capabilities": [
+    "LC-MS/MS proteomics (including multiplexed quantification workflows such as isobaric labeling and phospho-enrichment)",
+    "targeted proteomics assays using heavy peptide standards",
+    "integrative analysis of proteomic, transcriptomic, genomic, and imaging datasets",
+    "deep learning models for whole-slide histopathology and multiplexed imaging",
+    "spatial omics method development and benchmarking using simulated and reference datasets"
+  ],
+  "model_systems": [
+    "human tumor cohorts and clinical specimens",
+    "public cancer multi-omics resources (e.g., CPTAC-style proteogenomic datasets)",
+    "whole-slide histopathology images",
+    "multiplexed imaging datasets",
+    "spatial transcriptomics and spatial proteomics datasets"
+  ],
+  "focus_groups": [],
+  "publications": [
+    {
+      "title": "SimSpace: a comprehensive in-silico spatial omics data simulation framework",
+      "venue": "bioRxiv",
+      "year": 2025,
+      "pdf": "2025.07.18.665587v1.full_anonymous.pdf",
+      "tags": [
+        "spatial omics",
+        "simulation",
+        "benchmarking"
+      ]
+    },
+    {
+      "title": "Characterization of tumour heterogeneity through segmentation-free representation learning on multiplexed imaging data",
+      "venue": "Nature Biomedical Engineering",
+      "year": 2025,
+      "pdf": "s41551-025-01348-1_anonymous.pdf",
+      "tags": [
+        "multiplexed imaging",
+        "representation learning",
+        "tumor heterogeneity"
+      ]
+    },
+    {
+      "title": "Pan-cancer analysis reveals context-dependent roles of LINE-1 ORF1p in immune regulation and copy number alterations",
+      "venue": "bioRxiv",
+      "year": 2025,
+      "pdf": "2025.10.03.680361.full_anonymous.pdf",
+      "tags": [
+        "transposable elements",
+        "ORF1p",
+        "immune regulation"
+      ]
+    },
+    {
+      "title": "Deep learning integrates histopathology and proteogenomics at a pan-cancer level",
+      "venue": "Cell Reports Medicine",
+      "year": 2023,
+      "pdf": "1-s2.0-S2666379123003269-main_anonymous.pdf",
+      "tags": [
+        "deep learning",
+        "histopathology",
+        "proteogenomics"
+      ]
+    },
+    {
+      "title": "Integrated proteogenomic characterization of endometrial carcinoma",
+      "venue": "Cancer Cell",
+      "year": 2023,
+      "pdf": "1-s2.0-S1535610823002477-main_anonymous.pdf",
+      "tags": [
+        "proteogenomics",
+        "endometrial carcinoma",
+        "biomarkers"
+      ]
+    }
+  ],
+  "common_reagents_and_platforms": [
+    "mass spectrometry platforms for discovery and targeted proteomics",
+    "isobaric labeling reagents and phospho-enrichment chemistries",
+    "stable isotope labeled synthetic peptide standards",
+    "histopathology slide scanning and image analysis pipelines",
+    "multiplexed imaging platforms and antibody panels",
+    "GPU and high performance computing resources for machine learning"
+  ],
+  "id": "intake_david_fenyo",
+  "department_site": "Institute for Systems Genetics",
+  "keywords": [
+    "proteomics",
+    "multi-omics integration",
+    "proteogenomics",
+    "machine learning",
+    "deep learning",
+    "computational pathology",
+    "multiplexed imaging",
+    "spatial omics",
+    "cancer biology",
+    "immune regulation"
+  ],
+  "summary": "In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies\u2014including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions. I apply these computational methods to solve practical problems in experimental design optimization and quantitative data analysis. A large portion of my work has been on proteomic data analysis: I established a statistical basis for testing the significance of protein identification results, developed computational methods and databases for protein identification, quantitation and characterization of post-translational modifications and interaction, and applied machine learning to build predictive models. I am currently focusing on developing methods for integrating multi-modal data\u2014including multi-omics, imaging and text data\u2014 which have provided a wide array of powerful tools for discovery and verify biomarkers and therapeutic targets in cancer. I am applying multi-omics approaches to better understand tumor biology with a focus on improving patient treatment."
+}
