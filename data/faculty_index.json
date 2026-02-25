@@ -1,22 +1,5 @@
 [
   {
-    "id": "micro_jeffrey_n_weiser",
-    "name": "Jeffrey N. Weiser, MD",
-    "title": "",
-    "summary": "The Weiser Lab investigates the molecular basis of host\u2013pathogen interactions in the human respiratory tract, with a primary focus on Streptococcus pneumoniae colonization, transmission, and immune evasion. Research extends to Haemophilus influenzae, Klebsiella pneumoniae, Staphylococcus aureus, and influenza A virus to define conserved mechanisms of airway pathogenesis. The lab integrates bacterial genetics, mucosal immunology, and population-level variation to understand how microbial traits\u2014such as capsule structure, bacteriocin competition systems (BlpAB), and neuraminidase activity\u2014govern mucosal persistence and transitions from commensal carriage to invasive disease. Recent studies revealed that neuraminidase-mediated mucus remodeling enhances colonization, Blp polymorphisms drive within-host competition and inflammation, and capsule diversity limits genetic exchange and immune recognition. Current efforts aim to delineate the bacterial and host factors that balance colonization and virulence and to identify strategies that prevent transmission, vaccine escape, and antibiotic resistance across respiratory pathogens.",
-    "keywords": [
-      "Bacterial colonization and persistence in the upper respiratory tract",
-      "Host\u2013pathogen interactions shaping innate and adaptive immunity",
-      "Streptococcus pneumoniae pathogenesis, carriage, and virulence regulation",
-      "Genetic and molecular determinants of bacterial fitness and transmission",
-      "Microbial competition, co-colonization, and population dynamics",
-      "Virus\u2013bacterium co-infection, particularly influenza\u2013pneumococcus interactions",
-      "Role of phosphorylcholine and other bacterial surface molecules in immune evasion",
-      "Mucosal immunity and age-dependent susceptibility to infection",
-      "Influence of the upper-airway microbiota on systemic immune responses"
-    ]
-  },
-  {
     "id": "intake_jef_d_boeke",
     "name": "Jef D. Boeke",
     "title": "Professor",
