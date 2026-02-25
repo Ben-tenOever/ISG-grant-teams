@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Department Grant Team Builder</title>
+  <style>
+    :root { --bg:#0b1020; --panel:#111a33; --muted:#a8b3d1; --text:#e8ecff; }
+    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; background:var(--bg); color:var(--text); }
+    header { max-width:1100px; margin:0 auto; padding:22px 18px 8px; }
+    h1 { margin:0 0 6px; font-size:22px; }
+    p { margin:8px 0; color:var(--muted); line-height:1.45; }
+    .row { display:flex; gap:12px; flex-wrap:wrap; }
+    input[type="search"] { flex:1; min-width:260px; padding:10px 12px; border-radius:12px; border:1px solid rgba(255,255,255,0.10); background:#0f1730; color:var(--text); }
+    main { max-width:1100px; margin:0 auto; padding:8px 18px 30px; }
+    section { background:var(--panel); border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:14px; margin:12px 0; box-shadow: 0 10px 22px rgba(0,0,0,0.20); }
+    h2 { margin:0 0 10px; font-size:16px; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap:12px; }
+    .card { border:1px solid rgba(255,255,255,0.08); border-radius:16px; padding:12px; background: rgba(255,255,255,0.03); }
+    .small { font-size:12px; color:var(--muted); line-height:1.4; }
+    .pill { display:inline-block; padding:4px 8px; border-radius:999px; border:1px solid rgba(255,255,255,0.10); background: rgba(255,255,255,0.03); margin:6px 6px 0 0; font-size:12px; color:var(--muted); }
+    a { color:#a9c1ff; }
+    code { background: rgba(255,255,255,0.06); padding: 2px 6px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="deptName">Department grant team builder</h1>
+    <p id="deptBlurb">
+      Static GitHub Pages site that displays faculty profiles, current Grants.gov opportunities, and precomputed team suggestions.
+    </p>
+    <div class="row">
+      <input id="q" type="search" placeholder="Search faculty, keywords, or opportunity titles" />
+      <span class="pill" id="status">Loading…</span>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>Suggested teams</h2>
+      <div class="small">Source: <code>data/teams.json</code>. Generate offline or via CI, then commit.</div>
+      <div class="grid" id="teams"></div>
+    </section>
+
+    <section>
+      <h2>Opportunities</h2>
+      <div class="small">Source: <code>data/opportunities.json</code>. Fetch from Grants.gov API on a schedule, then commit.</div>
+      <div class="grid" id="opps"></div>
+    </section>
+
+    <section>
+      <h2>Faculty</h2>
+      <div class="small">Source: <code>data/faculty_index.json</code>.</div>
+      <div class="grid" id="faculty"></div>
+    </section>
+  </main>
+
+<script>
+  const q = document.getElementById("q");
+  const status = document.getElementById("status");
+  const facultyEl = document.getElementById("faculty");
+  const teamsEl = document.getElementById("teams");
+  const oppsEl = document.getElementById("opps");
+  let faculty = [];
+  let teams = [];
+  let opps = [];
+
+  function esc(s) {
+    return (s || "").toString().replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;");
+  }
+
+  function render() {
+    const query = (q.value || "").toLowerCase().trim();
+
+    const f = !query ? faculty : faculty.filter(x => {
+      const hay = [x.name, x.title, (x.keywords || []).join(" "), x.summary].join(" ").toLowerCase();
+      return hay.includes(query);
+    });
+
+    const t = !query ? teams : teams.filter(x => {
+      const hay = [x.team_name, x.opportunity_title, x.rationale, (x.members || []).join(" ")].join(" ").toLowerCase();
+      return hay.includes(query);
+    });
+
+    const o = !query ? opps : opps.filter(x => {
+      const hay = [x.title, x.agency, x.instrument, x.number, x.synopsis].join(" ").toLowerCase();
+      return hay.includes(query);
+    });
+
+    facultyEl.innerHTML = f.map(x => `
+      <div class="card">
+        <div>${esc(x.name)}</div>
+        <div class="small">${esc(x.title || "")}</div>
+        <div class="small">${esc(x.summary || "")}</div>
+        <div>
+          ${(x.keywords || []).slice(0,6).map(k => `<span class="pill">${esc(k)}</span>`).join("")}
+        </div>
+      </div>
+    `).join("");
+
+    teamsEl.innerHTML = t.map(x => `
+      <div class="card">
+        <div>${esc(x.team_name || "Team")}</div>
+        <div class="small">${esc(x.opportunity_title || "")}</div>
+        <div class="small">${esc(x.rationale || "")}</div>
+        <div class="small">Members: ${(x.members || []).map(m => esc(m)).join(", ")}</div>
+      </div>
+    `).join("");
+
+    oppsEl.innerHTML = o.map(x => `
+      <div class="card">
+        <div>${esc(x.title || "")}</div>
+        <div class="small">${esc(x.agency || "")}${x.number ? " · " + esc(x.number) : ""}</div>
+        <div class="small">${esc(x.synopsis || "")}</div>
+        <div>
+          ${x.instrument ? `<span class="pill">${esc(x.instrument)}</span>` : ""}
+          ${x.close_date ? `<span class="pill">closes ${esc(x.close_date)}</span>` : ""}
+          ${x.url ? `<span class="pill"><a href="${esc(x.url)}" target="_blank" rel="noreferrer">open</a></span>` : ""}
+        </div>
+      </div>
+    `).join("");
+
+    status.textContent = `${t.length} teams · ${o.length} opportunities · ${f.length} faculty`;
+  }
+
+  async function loadJson(path) {
+    const r = await fetch(path, { cache: "no-store" });
+    return await r.json();
+  }
+
+  Promise.all([
+    loadJson("data/faculty_index.json").catch(() => []),
+    loadJson("data/teams.json").catch(() => []),
+    loadJson("data/opportunities.json").catch(() => [])
+  ]).then(([f, t, o]) => {
+    faculty = f;
+    teams = t;
+    opps = o;
+    render();
+    q.addEventListener("input", render);
+  }).catch(err => {
+    status.textContent = "Failed to load data";
+    console.error(err);
+  });
+</script>
+</body>
+</html>
