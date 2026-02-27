@@ -1,9 +1,28 @@
 [
   {
+    "id": "intake_david_fenyo",
+    "name": "David Fenyo",
+    "title": "Professor",
+    "summary": "In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems.",
+    "keywords": [
+      "proteomics",
+      "multi-omics integration",
+      "proteogenomics",
+      "machine learning",
+      "deep learning",
+      "computational pathology",
+      "multiplexed imaging",
+      "spatial omics",
+      "cancer biology",
+      "immune regulation"
+    ],
+    "search_text": "David Fenyo Professor In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. proteomics multi-omics integration proteogenomics machine learning deep learning computational pathology multiplexed imaging spatial omics cancer biology immune regulation"
+  },
+  {
     "id": "intake_jef_d_boeke",
     "name": "Jef D. Boeke",
     "title": "Professor",
-    "summary": "Leads a synthetic genomics and genome writing program focused on designing, assembling, and installing very large DNA constructs to interrogate genome regulation and build faithful disease models. Develops genome writing pipelines that combine yeast based assembly of multi segment loci with targeted delivery into yeast and mouse embryonic stem cells using strategies such as Big IN and mSwAP In. Uses these capabilities to build tailored mammalian disease models, including a genomically rewritten TAF1 humanization model of X linked dystonia parkinsonism that links intronic SVA elements to transcriptional defects and neurodegeneration. Applies synthetic locus designs such as reversed human HPRT1 to define default genome states and to probe transcriptional and chromatin activity across episomal and integrated contexts in yeast and mouse. Builds and automates big DNA assembly workflows, including Assemblatron and ultra low background yeast vectors, enabling scalable assembly and verification of 50 kb and larger constructs. Also explores how synthetic genome architecture shapes nuclear organization and gene regulation, including manipulation of the 3D organization of large synthetic yeast chromosomes.",
+    "summary": "Leads a synthetic genomics and genome writing program focused on designing, assembling, and installing very large DNA constructs to interrogate genome regulation and build faithful disease models.",
     "keywords": [
       "Synthetic genomics",
       "Genome writing",
@@ -45,13 +64,70 @@
       "Assemblatron",
       "Jack In the Box vector system",
       "SURE vector system"
-    ]
+    ],
+    "search_text": "Jef D. Boeke Professor Leads a synthetic genomics and genome writing program focused on designing, assembling, and installing very large DNA constructs to interrogate genome regulation and build faithful disease models. Synthetic genomics Genome writing Genome engineering Large DNA assembly Landing pads Cre RMCE CRISPR Cas9 mSwAP In YAV Big DNA Chromatin regulation Functional genomics Institute for Systems Genetics Mammalian genome writing Yeast homologous recombination Assemblons Big IN Landing pad integration Cre lox RMCE CRISPR Cas9 genome editing Mouse embryonic stem cells Transgenic mouse engineering Human locus humanization TAF1 X linked dystonia parkinsonism SVA retrotransposon elements Transcription elongation roadblocks HPRT1 Default genomic states Synthetic yeast chromosomes 3D genome organization Chromatin profiling RNA sequencing ATAC sequencing Hi C CAGE sequencing Automation and robotics for DNA assembly Assemblatron Jack In the Box vector system SURE vector system"
+  },
+  {
+    "id": "micro_jeffrey_n_weiser",
+    "name": "Jeffrey N. Weiser, MD",
+    "title": "",
+    "summary": "The Weiser Lab investigates the molecular basis of host–pathogen interactions in the human respiratory tract, with a primary focus on Streptococcus pneumoniae colonization, transmission, and immune evasion.",
+    "keywords": [
+      "Bacterial colonization and persistence in the upper respiratory tract",
+      "Host–pathogen interactions shaping innate and adaptive immunity",
+      "Streptococcus pneumoniae pathogenesis, carriage, and virulence regulation",
+      "Genetic and molecular determinants of bacterial fitness and transmission",
+      "Microbial competition, co-colonization, and population dynamics",
+      "Virus–bacterium co-infection, particularly influenza–pneumococcus interactions",
+      "Role of phosphorylcholine and other bacterial surface molecules in immune evasion",
+      "Mucosal immunity and age-dependent susceptibility to infection",
+      "Influence of the upper-airway microbiota on systemic immune responses",
+      "Bacteriology / Immunology",
+      "Bacteriology",
+      "Drivers of Microbial Pathogenesis",
+      "Immunology"
+    ],
+    "search_text": "Jeffrey N. Weiser, MD  The Weiser Lab investigates the molecular basis of host–pathogen interactions in the human respiratory tract, with a primary focus on Streptococcus pneumoniae colonization, transmission, and immune evasion. Bacterial colonization and persistence in the upper respiratory tract Host–pathogen interactions shaping innate and adaptive immunity Streptococcus pneumoniae pathogenesis, carriage, and virulence regulation Genetic and molecular determinants of bacterial fitness and transmission Microbial competition, co-colonization, and population dynamics Virus–bacterium co-infection, particularly influenza–pneumococcus interactions Role of phosphorylcholine and other bacterial surface molecules in immune evasion Mucosal immunity and age-dependent susceptibility to infection Influence of the upper-airway microbiota on systemic immune responses Bacteriology / Immunology Bacteriology Drivers of Microbial Pathogenesis Immunology"
+  },
+  {
+    "id": "intake_liam_holt",
+    "name": "Liam Holt",
+    "title": "Associate Professor",
+    "summary": "The Holt Lab studies how the physical state of the cell interior shapes information flow, with an emphasis on macromolecular crowding, intracellular pH, and biomolecular condensation.",
+    "keywords": [
+      "Biomolecular condensates and phase separation as regulators of kinase signaling and phosphoregulation",
+      "Macromolecular crowding as a tunable cellular signal and determinant of reaction rates and diffusion",
+      "mTORC1 control of cytoplasmic biophysics through ribosome concentration and mesoscale crowding",
+      "Genetically encoded multimeric nanoparticles for high throughput microrheology and particle tracking in living cells",
+      "Carbon starvation and intracellular pH dynamics as signals driving transcriptional reprogramming in yeast",
+      "SWI SNF chromatin remodeling recruitment controlled by a pH sensitive low complexity domain in SNF5",
+      "Synthetic condensate design rules, scaffold flexibility, and client recruitment controlling signaling efficiency",
+      "Quantitative integration of imaging, biochemistry, and modeling to connect cell physics to gene regulation",
+      "Biophysics of signaling / biomolecular condensates / gene regulation under stress"
+    ],
+    "search_text": "Liam Holt Associate Professor The Holt Lab studies how the physical state of the cell interior shapes information flow, with an emphasis on macromolecular crowding, intracellular pH, and biomolecular condensation. Biomolecular condensates and phase separation as regulators of kinase signaling and phosphoregulation Macromolecular crowding as a tunable cellular signal and determinant of reaction rates and diffusion mTORC1 control of cytoplasmic biophysics through ribosome concentration and mesoscale crowding Genetically encoded multimeric nanoparticles for high throughput microrheology and particle tracking in living cells Carbon starvation and intracellular pH dynamics as signals driving transcriptional reprogramming in yeast SWI SNF chromatin remodeling recruitment controlled by a pH sensitive low complexity domain in SNF5 Synthetic condensate design rules, scaffold flexibility, and client recruitment controlling signaling efficiency Quantitative integration of imaging, biochemistry, and modeling to connect cell physics to gene regulation Biophysics of signaling / biomolecular condensates / gene regulation under stress"
+  },
+  {
+    "id": "intake_molly_gale_hammell",
+    "name": "Molly Gale Hammell",
+    "title": "Associate Professor",
+    "summary": "Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health.",
+    "keywords": [],
+    "search_text": "Molly Gale Hammell Associate Professor Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health."
+  },
+  {
+    "id": "intake_paolo_mita",
+    "name": "Paolo Mita",
+    "title": "Research Assistant Professor",
+    "summary": "Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process.",
+    "keywords": [],
+    "search_text": "Paolo Mita Research Assistant Professor Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process."
   },
   {
     "id": "intake_ran_brosh",
     "name": "Ran Brosh",
     "title": "Research Assistant Professor, Associate Director",
-    "summary": "I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation. [2] I'm the Associate Director of the Rodent Genetic Engineering Laboratory (RGEL), a core facility that generate transgenic mice by a variety of advanced methods.\n\nBuilds and applies genome writing platforms to rewrite large mammalian loci and model how regulatory DNA and transposable element insertions shape gene expression and disease phenotypes. Develops landing pad and large payload integration approaches such as Big IN and mSwAP In for iterative locus replacement in stem cells, enabling synthetic regulatory genomics studies including Sox2 locus control region dissection, ACE2 humanization for viral susceptibility models, and TAF1 humanization to test consequences of X linked dystonia parkinsonism associated SVA insertions. Supports end to end engineering workflows spanning design, assembly, validation, mouse model generation, and colony services.",
+    "summary": "I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease.",
     "keywords": [
       "ACE2 humanized mouse models",
       "Big IN platform",
@@ -70,54 +146,7 @@
       "mSwAP In iterative rewriting",
       "mammalian genome writing",
       "synthetic regulatory genomics"
-    ]
-  },
-  {
-    "id": "intake_liam_holt",
-    "name": "Liam Holt",
-    "title": "Associate Professor",
-    "summary": "The Holt Lab studies how the physical state of the cell interior shapes information flow, with an emphasis on macromolecular crowding, intracellular pH, and biomolecular condensation. Using quantitative cell biology and synthetic biology, the group tests how phase separated condensates modulate kinase driven phosphoregulation, expand substrate specificity, and convert biophysical cues into chemical signals. In parallel, the lab investigates stress and nutrient signaling in yeast, including how mTORC1 tunes ribosome abundance to control cytoplasmic diffusion and phase separation, and how carbon starvation drives pH dependent transcriptional reprogramming through SWI SNF recruitment. Across these programs, the lab builds and applies genetically encoded multimeric nanoparticles for in cell microrheology and single particle tracking, combines these measurements with genome wide expression profiling and reconstituted biochemical assays, and integrates mechanistic modeling and simulations to link molecular crowding and condensation to gene regulation and signaling.",
-    "keywords": [
-      "Biomolecular condensates and phase separation as regulators of kinase signaling and phosphoregulation",
-      "Macromolecular crowding as a tunable cellular signal and determinant of reaction rates and diffusion",
-      "mTORC1 control of cytoplasmic biophysics through ribosome concentration and mesoscale crowding",
-      "Genetically encoded multimeric nanoparticles for high throughput microrheology and particle tracking in living cells",
-      "Carbon starvation and intracellular pH dynamics as signals driving transcriptional reprogramming in yeast",
-      "SWI SNF chromatin remodeling recruitment controlled by a pH sensitive low complexity domain in SNF5",
-      "Synthetic condensate design rules, scaffold flexibility, and client recruitment controlling signaling efficiency",
-      "Quantitative integration of imaging, biochemistry, and modeling to connect cell physics to gene regulation"
-    ]
-  },
-  {
-    "id": "intake_paolo_mita",
-    "name": "Paolo Mita",
-    "title": "Research Assistant Professor",
-    "summary": "Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as \u201cjumping genes.\u201d DNA transposons use a \u201ccut and paste\u201d mechanism to move within a host genome while retrotransposons increase their amount using a \u201ccopy and paste\u201d process.  My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.   I seek to advance the basic understanding of L1 retrotransposon physiology in human cells and explore its role in human diseases and processes, such as cancer, aging and wound healing. Specifically, we aim to identify and study the impact of L1 proteins, mRNA expression and activity on a variety of cellular mechanisms, including DNA damage and replication, cellular ploidy during tumor evolution, viral sensing pathways, and the deregulation of tumor suppressors and oncogenes.   To achieve these goals, we use a multidisciplinary approach that integrates genetic, microscopy, and proteomic techniques in both in vitro and in vivo mouse models. By leveraging these tools, we are mechanistically characterizing the impact of L1 on cellular physiology. This knowledge has the potential to inform the development of novel therapeutic and diagnostic approaches, thereby contributing to improved clinical outcomes.  More recently I am also involved in the development and implementation of new synthetic biology and cell engineering approaches applied to the protection and restoration of endangered bird species.",
-    "keywords": []
-  },
-  {
-    "id": "intake_david_fenyo",
-    "name": "David Fenyo",
-    "title": "Professor",
-    "summary": "In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies\u2014including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions. I apply these computational methods to solve practical problems in experimental design optimization and quantitative data analysis. A large portion of my work has been on proteomic data analysis: I established a statistical basis for testing the significance of protein identification results, developed computational methods and databases for protein identification, quantitation and characterization of post-translational modifications and interaction, and applied machine learning to build predictive models. I am currently focusing on developing methods for integrating multi-modal data\u2014including multi-omics, imaging and text data\u2014 which have provided a wide array of powerful tools for discovery and verify biomarkers and therapeutic targets in cancer. I am applying multi-omics approaches to better understand tumor biology with a focus on improving patient treatment.",
-    "keywords": [
-      "proteomics",
-      "multi-omics integration",
-      "proteogenomics",
-      "machine learning",
-      "deep learning",
-      "computational pathology",
-      "multiplexed imaging",
-      "spatial omics",
-      "cancer biology",
-      "immune regulation"
-    ]
-  },
-  {
-    "id": "intake_molly_gale_hammell",
-    "name": "Molly Gale Hammell",
-    "title": "Associate Professor",
-    "summary": "Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS). She is recognized for her contributions to developing novel statistical and algorithmic tools for genomic data analysis and for uncovering mechanisms that drive disease processes at the genetic and molecular level. Her interdisciplinary expertise spans genetics, genomics, systems biology, and human disease, positioning her at the forefront of research that connects mechanistic insights to translational and clinical relevance. More recently, her lab has been exploring the ability of transposable elements derived RNA and DNA species to activate innate immune pathways, driving neuroinflammation.\n\nMolly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS). She is recognized for her contributions to developing novel statistical and algorithmic tools for genomic data analysis and for uncovering mechanisms that drive disease processes at the genetic and molecular level. Her interdisciplinary expertise spans genetics, genomics, systems biology, and human disease, positioning her at the forefront of research that connects mechanistic insights to translational and clinical relevance. Current interests include neuroinflammatory triggers driven by transposable elements and innate immune pathways",
-    "keywords": []
+    ],
+    "search_text": "Ran Brosh Research Assistant Professor, Associate Director I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. ACE2 humanized mouse models Big IN platform CRISPR activation rescue DHS element function mapping SARS CoV 2 susceptibility models SVA retrotransposon biology Sox2 locus control region TAF1 humanization X linked dystonia parkinsonism capture sequencing validation chromatin and transcriptome profiling landing pad based genome rewriting large DNA payload integration locus scale genome engineering mSwAP In iterative rewriting mammalian genome writing synthetic regulatory genomics"
   }
 ]
