@@ -1,206 +1,6 @@
 [
   {
     "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "d9d8266b-d094-4677-b40c-7c46848eb1c5",
-    "opportunity_number": "PAR-20-043",
-    "opportunity_title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "f98316c9-06ac-40e5-be43-db01a0a0dccf",
-    "opportunity_number": "SFOP0008547",
-    "opportunity_title": "Notice of Intent:  Program to End Modern Slavery FY 2022",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Jef D. Boeke + David Fenyo",
-    "opportunity_id": "ac5709b0-e4ba-4653-a2b9-2087cb1c9b42",
-    "opportunity_number": "SFOP0009339",
-    "opportunity_title": "Notice of Intent:  Program to End Modern Slavery FY 2023",
-    "members": [
-      "Jef D. Boeke",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_jef_d_boeke",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: program",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 20.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "ac5709b0-e4ba-4653-a2b9-2087cb1c9b42",
-    "opportunity_number": "SFOP0009339",
-    "opportunity_title": "Notice of Intent:  Program to End Modern Slavery FY 2023",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Jef D. Boeke + David Fenyo",
-    "opportunity_id": "d8de0550-c5b0-4efc-872a-7777a933452b",
-    "opportunity_number": "DFOP0017042",
-    "opportunity_title": "Notice of Intent:  Program to End Modern Slavery FY 2025",
-    "members": [
-      "Jef D. Boeke",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_jef_d_boeke",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: program",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "d8de0550-c5b0-4efc-872a-7777a933452b",
-    "opportunity_number": "DFOP0017042",
-    "opportunity_title": "Notice of Intent:  Program to End Modern Slavery FY 2025",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Jef D. Boeke + David Fenyo",
-    "opportunity_id": "e66f1f91-42dc-4a57-acba-8986d3e08df1",
-    "opportunity_number": "DE-FOA-0002265",
-    "opportunity_title": "University Nuclear Leadership Program– Scholarship and Fellowship Support",
-    "members": [
-      "Jef D. Boeke",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_jef_d_boeke",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: program",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 24.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "e66f1f91-42dc-4a57-acba-8986d3e08df1",
-    "opportunity_number": "DE-FOA-0002265",
-    "opportunity_title": "University Nuclear Leadership Program– Scholarship and Fellowship Support",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 20.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Paolo Mita + Ran Brosh",
-    "opportunity_id": "faafd0c3-eeda-4f0a-8e81-58cff40c38f4",
-    "opportunity_number": "W911NF25S0007",
-    "opportunity_title": "Staff Research Program",
-    "members": [
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 17.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "fbe9738b-8440-4690-a838-9d0f99d9e777",
-    "opportunity_number": "N00244-26-S-NPS-F001",
-    "opportunity_title": "Research Initiatives at the Naval Postgraduate School",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
-  },
-  {
-    "team_type": "pair",
     "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
     "opportunity_id": "cd4dd647-b2b4-49d9-aac3-0033d0eb434c",
     "opportunity_number": "DE-FOA-0003164",
@@ -217,27 +17,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 53.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + Jef D. Boeke",
-    "opportunity_id": "cd4dd647-b2b4-49d9-aac3-0033d0eb434c",
-    "opportunity_number": "DE-FOA-0003164",
-    "opportunity_title": "SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS)",
-    "members": [
-      "Ran Brosh",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 20.0
+    "confidence_score": 53.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003164 — ISG: tools, including, which, processes",
+    "synopsis": "This application would address SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS) by integrating complementary expertise across the team. The proposed collaboration is centered on tools, including, which, processes and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in tools, including, which, processes using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -257,47 +46,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 49.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Liam Holt + Molly Gale Hammell",
-    "opportunity_id": "fd281670-a13c-4cd9-a526-7bb67a98d227",
-    "opportunity_number": "DE-FOA-0003467",
-    "opportunity_title": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
-    "members": [
-      "Liam Holt",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_liam_holt",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 24.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "dda6c03f-68e1-42c7-b272-8fab8168f6c6",
-    "opportunity_number": "23-606",
-    "opportunity_title": "Mathematical Sciences Research Institutes",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: mathematical, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
+    "confidence_score": 49.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003467 — ISG: apply, including, have, research",
+    "synopsis": "This application would address SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY by integrating complementary expertise across the team. The proposed collaboration is centered on apply, including, have, research and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in apply, including, have, research using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -317,27 +75,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 28.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + Jef D. Boeke",
-    "opportunity_id": "131fabad-5506-431b-b87a-e564f1d8dcc4",
-    "opportunity_number": "PAR-26-042",
-    "opportunity_title": "Research Grants in Clinical Informatics (R01 Clinical Trial Optional)",
-    "members": [
-      "Ran Brosh",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
+    "confidence_score": 28.0,
+    "opportunity_url": "https://www.grants.gov/search-results-detail/359004",
+    "suggested_title": "PAR-26-042 — ISG: tools, research, approaches, including",
+    "synopsis": "This application would address Research Grants in Clinical Informatics (R01 Clinical Trial Optional) by integrating complementary expertise across the team. The proposed collaboration is centered on tools, research, approaches, including and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in tools, research, approaches, including using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -357,27 +104,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 29.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Paolo Mita + Jef D. Boeke",
-    "opportunity_id": "ca108e77-69f6-4d3a-9723-a1353076a4ad",
-    "opportunity_number": "PAR-26-040",
-    "opportunity_title": "Advancing Bioinformatics, Translational Bioinformatics and Computational Biology Research (R01 Clinical Trial Optional)",
-    "members": [
-      "Paolo Mita",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_paolo_mita",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
+    "confidence_score": 29.0,
+    "opportunity_url": "https://www.grants.gov/search-results-detail/359003",
+    "suggested_title": "PAR-26-040 — ISG: biology, research, approaches, methods",
+    "synopsis": "This application would address Advancing Bioinformatics, Translational Bioinformatics and Computational Biology Research (R01 Clinical Trial Optional) by integrating complementary expertise across the team. The proposed collaboration is centered on biology, research, approaches, methods and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in biology, research, approaches, methods using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -397,7 +133,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 29.0
+    "confidence_score": 29.0,
+    "opportunity_url": "https://www.grants.gov/search-results-detail/359646",
+    "suggested_title": "RFA-OD-25-011 — ISG: human, clinical, tools, research",
+    "synopsis": "This application would address Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on human, clinical, tools, research and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Molly Gale Hammell: Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS)..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in human, clinical, tools, research using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -417,47 +162,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 27.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "a3fe5760-281e-4303-aac7-08dcea8327c2",
-    "opportunity_number": "PAR-26-134",
-    "opportunity_title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 20.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "ff7edf5f-3dc8-4e2b-94a9-c4e9b1e06d3c",
-    "opportunity_number": "RFA-OH-25-002",
-    "opportunity_title": "Occupational Safety and Health Education and Research Centers (T42)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
+    "confidence_score": 27.0,
+    "opportunity_url": "https://www.grants.gov/search-results-detail/359646",
+    "suggested_title": "RFA-OD-25-011 — ISG: systems, models, such, integration",
+    "synopsis": "This application would address Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on systems, models, such, integration and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Jef D. Boeke: Leads a synthetic genomics and genome writing program focused on designing, assembling, and installing very large DNA constructs to interrogate genome regulation and build faithful disease models. Develops genome writing pipelines that combine yeast based assembly of multi segment loci with targeted delivery into yeast and mouse embryonic stem cells using strategies such as Big IN and mSwAP In..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in systems, models, such, integration using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -477,287 +191,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 30.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + Jef D. Boeke",
-    "opportunity_id": "5fc9e460-abc2-4c8b-b02e-25090753f213",
-    "opportunity_number": "RFA-OD-25-010",
-    "opportunity_title": "Resource-Related Research Projects for Development of Models and Related Materials for Studying Human Health and Diseases (R24 Clinical Trials Not Allowed)",
-    "members": [
-      "Ran Brosh",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: health, human, models, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 21.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Paolo Mita + Ran Brosh",
-    "opportunity_id": "d88aea72-290a-4396-83ba-139886a6ffc8",
-    "opportunity_number": "PAR-26-033",
-    "opportunity_title": "NIGMS Institutional Biomedical Undergraduate Research Training (BURT) Program (T34)",
-    "members": [
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 18.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "45ab10e1-1758-4a2f-ad07-e93d95c5bedc",
-    "opportunity_number": "PAR-25-444",
-    "opportunity_title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "8e4a156c-436f-47fe-9f8b-b82ca0ca901e",
-    "opportunity_number": "PAR-23-202",
-    "opportunity_title": "Vet-LIRN Capacity-Building Project and Equipment Grants (U18)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: project",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 17.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "c0870ec4-90de-4aa7-8ab4-381603a9539c",
-    "opportunity_number": "PAR-25-323",
-    "opportunity_title": "Stephen I. Katz Early Stage Investigator Research Project Grant (R01 Basic Experimental Studies with Human Required)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: project, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Liam Holt + Paolo Mita",
-    "opportunity_id": "c0870ec4-90de-4aa7-8ab4-381603a9539c",
-    "opportunity_number": "PAR-25-323",
-    "opportunity_title": "Stephen I. Katz Early Stage Investigator Research Project Grant (R01 Basic Experimental Studies with Human Required)",
-    "members": [
-      "Liam Holt",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_liam_holt",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: research, studies",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Ran Brosh",
-    "opportunity_id": "c4e59dd9-c37c-467e-ad94-b704cb0211f4",
-    "opportunity_number": "PAR-25-449",
-    "opportunity_title": "Mind and Body Interventions to Restore Whole Person Health via Emotional Well-Being Mechanisms (R61/R33 Clinical Trial Required)",
-    "members": [
-      "Molly Gale Hammell",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Shared terms: health",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "59c3ea57-ba49-4e96-9706-0528937de746",
-    "opportunity_number": "PAR-26-121",
-    "opportunity_title": "Maximizing Investigators' Research Award (MIRA) (R35 - Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 20.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "bd1b6f4b-400a-451b-9af9-14b572457e6f",
-    "opportunity_number": "PAR-24-251",
-    "opportunity_title": "Animal and Veterinary Innovation Centers (U18)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "483876e1-110a-4764-ab9d-2acc0cdc721d",
-    "opportunity_number": "PAR-25-447",
-    "opportunity_title": "NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders (X01 - Clinical Trial Not Allowed)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "483876e1-110a-4764-ab9d-2acc0cdc721d",
-    "opportunity_number": "PAR-25-447",
-    "opportunity_title": "NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders (X01 - Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: omics",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 21.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "8ad02b0a-1712-4da7-9ce5-247363b661ab",
-    "opportunity_number": "W911NF-23-S-0010",
-    "opportunity_title": "UNITED STATES ARMY RESEARCH INSTITUTE FOR THE BEHAVIORAL AND SOCIAL SCIENCES (ARI) BROAD AGENCY ANNOUNCEMENT FOR BASIC, APPLIED, AND ADVANCED SCIENTIFIC RESEARCH",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: institute, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 17.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Jef D. Boeke + David Fenyo",
-    "opportunity_id": "8ad02b0a-1712-4da7-9ce5-247363b661ab",
-    "opportunity_number": "W911NF-23-S-0010",
-    "opportunity_title": "UNITED STATES ARMY RESEARCH INSTITUTE FOR THE BEHAVIORAL AND SOCIAL SCIENCES (ARI) BROAD AGENCY ANNOUNCEMENT FOR BASIC, APPLIED, AND ADVANCED SCIENTIFIC RESEARCH",
-    "members": [
-      "Jef D. Boeke",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_jef_d_boeke",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: institute, research, states",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "93773e78-8e58-490e-92c4-9452254b56fd",
-    "opportunity_number": "HQ003423NFOEASD01",
-    "opportunity_title": "NDEP STEM Open NFO",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
+    "confidence_score": 30.0,
+    "opportunity_url": "https://www.grants.gov/search-results-detail/359648",
+    "suggested_title": "RFA-OD-25-010 — ISG: biology, human, clinical, research",
+    "synopsis": "This application would address Resource-Related Research Projects for Development of Models and Related Materials for Studying Human Health and Diseases (R24 Clinical Trials Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on biology, human, clinical, research and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Molly Gale Hammell: Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS)..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in biology, human, clinical, research using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -777,47 +220,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 30.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + Jef D. Boeke",
-    "opportunity_id": "4cbf781d-7933-4399-a49c-bfb5699b64f0",
-    "opportunity_number": "RFA-OH-22-005",
-    "opportunity_title": "Commercial Fishing Occupational Safety Research Cooperative Agreement (U01)",
-    "members": [
-      "Ran Brosh",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "bdd8e776-8fcc-4740-a784-2f8a95921e0a",
-    "opportunity_number": "RFA-OH-22-006",
-    "opportunity_title": "Commercial Fishing Occupational Safety Training Project Grants (T03)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: project",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
+    "confidence_score": 30.0,
+    "opportunity_url": "https://www.grants.gov/search-results-detail/334971",
+    "suggested_title": "RFA-OH-22-005 — ISG: has, research, including, understanding",
+    "synopsis": "This application would address Commercial Fishing Occupational Safety Research Cooperative Agreement (U01) by integrating complementary expertise across the team. The proposed collaboration is centered on has, research, including, understanding and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in has, research, including, understanding using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -837,167 +249,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 25.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "97adaa7a-4d74-44c6-8771-6d061767a40a",
-    "opportunity_number": "PAR-25-383",
-    "opportunity_title": "Blueprint MedTech Translator (UG3/UH3 - Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "1fd3d671-8469-40ac-bbd6-adac625cf082",
-    "opportunity_number": "PAR-25-144",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R01 Clinical Trial Optional)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 18.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "1fd3d671-8469-40ac-bbd6-adac625cf082",
-    "opportunity_number": "PAR-25-144",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R01 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "122005eb-b9d4-4ccc-bfa4-794cac626544",
-    "opportunity_number": "PAR-25-206",
-    "opportunity_title": "Pilot Effectiveness Trials for Post-Acute Interventions and Services to Optimize Longer-term Outcomes (R01 Clinical Trial Required)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 20.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "122005eb-b9d4-4ccc-bfa4-794cac626544",
-    "opportunity_number": "PAR-25-206",
-    "opportunity_title": "Pilot Effectiveness Trials for Post-Acute Interventions and Services to Optimize Longer-term Outcomes (R01 Clinical Trial Required)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "65e271b5-fbf5-48d0-8183-a59b1027f78b",
-    "opportunity_number": "PAR-25-044",
-    "opportunity_title": "Mechanisms that Impact Cancer Risk after Bariatric Surgery (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 18.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "9e356693-4109-428d-82ca-d7d5577a06dc",
-    "opportunity_number": "PAR-25-282",
-    "opportunity_title": "Mood and Psychosis Symptoms during the Menopause Transition (R21 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 20.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Molly Gale Hammell",
-    "opportunity_id": "a5372826-8453-46de-8c64-5dd80e9da434",
-    "opportunity_number": "PAR-25-290",
-    "opportunity_title": "Utilizing Invasive Recording and Stimulating Opportunities in Humans to Advance Neural Circuitry Understanding of Mental Health Disorders (R01 Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Shared terms: health, understanding",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
+    "confidence_score": 25.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-383.html",
+    "suggested_title": "PAR-25-383 — ISG: clinical, research, more, health",
+    "synopsis": "This application would address Blueprint MedTech Translator (UG3/UH3 - Clinical Trial Optional) by integrating complementary expertise across the team. The proposed collaboration is centered on clinical, research, more, health and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Molly Gale Hammell: Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS)..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in clinical, research, more, health using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -1017,167 +278,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 28.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "d91c6831-95b8-4598-90e1-255b03260d44",
-    "opportunity_number": "PAR-25-091",
-    "opportunity_title": "Limited Competition: Small Grant Program for NIDDK K01/K08/K23/K25 Recipients (R03 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 18.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "da13f6fa-c132-4963-9339-3c75046c75e8",
-    "opportunity_number": "PAR-25-124",
-    "opportunity_title": "NCMRR Early Career Research Award (R03 Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "0d6ff094-5630-499b-8ff8-d4f7e8d62d9c",
-    "opportunity_number": "PAR-24-311",
-    "opportunity_title": "Molecular Imaging of Inflammation in Cancer (R01 Clinical Trial Not Allowed)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 24.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Ran Brosh",
-    "opportunity_id": "03a6eccc-2913-443a-8b8e-7603a32e2f8d",
-    "opportunity_number": "PAR-25-273",
-    "opportunity_title": "Development of Animal Models and Related Biological Materials for Research (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Shared terms: biological, models, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 24.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Jef D. Boeke + Paolo Mita",
-    "opportunity_id": "03a6eccc-2913-443a-8b8e-7603a32e2f8d",
-    "opportunity_number": "PAR-25-273",
-    "opportunity_title": "Development of Animal Models and Related Biological Materials for Research (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "Jef D. Boeke",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_jef_d_boeke",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: models, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "04cf4e58-5a89-47a9-b4c7-a1388edac495",
-    "opportunity_number": "PAR-25-233",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R03 Clinical Trial Not Allowed)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "04cf4e58-5a89-47a9-b4c7-a1388edac495",
-    "opportunity_number": "PAR-25-233",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R03 Clinical Trial Not Allowed)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "2a37bfc5-4ec7-481a-ab43-f5126ec21aa4",
-    "opportunity_number": "PA-25-150",
-    "opportunity_title": "Joint NINDS/NIMH Exploratory Neuroscience Research Grant (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 23.0
+    "confidence_score": 28.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-145.html",
+    "suggested_title": "PAR-25-145 — ISG: cancer, use, research, approaches",
+    "synopsis": "This application would address Clinical Characterization of Cancer Therapy-induced Adverse Sequelae and Mechanism-based Interventional Strategies (R01 Clinical Trial Optional) by integrating complementary expertise across the team. The proposed collaboration is centered on cancer, use, research, approaches and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in cancer, use, research, approaches using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -1197,167 +307,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 25.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Ran Brosh",
-    "opportunity_id": "b5cded22-b04f-4a83-b907-8121c44a2568",
-    "opportunity_number": "PAR-25-243",
-    "opportunity_title": "Basic Research in Cancer Health Disparities (R01 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Shared terms: cancer, health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 24.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "1351fb75-f66d-4304-80cb-864a04f7bea9",
-    "opportunity_number": "PAR-25-337",
-    "opportunity_title": "Academic-Industrial Partnerships for Translation of Technologies for Diagnosis and Treatment (R01 - Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 17.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "1351fb75-f66d-4304-80cb-864a04f7bea9",
-    "opportunity_number": "PAR-25-337",
-    "opportunity_title": "Academic-Industrial Partnerships for Translation of Technologies for Diagnosis and Treatment (R01 - Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: technologies",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "1380cf9c-4561-45a6-a85d-7866dd308ef0",
-    "opportunity_number": "PAR-25-143",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R21 Clinical Trial Optional)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "1380cf9c-4561-45a6-a85d-7866dd308ef0",
-    "opportunity_number": "PAR-25-143",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R21 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Molly Gale Hammell",
-    "opportunity_id": "150fab00-17e1-48c3-9898-3310f1fa4786",
-    "opportunity_number": "PAR-25-291",
-    "opportunity_title": "Utilizing Invasive Recording and Stimulating Opportunities in Humans to Advance Neural Circuitry Understanding of Mental Health Disorders (R21 Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Shared terms: health, understanding",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "0fe65ef7-422a-4388-bb0b-b7f25e74fd7a",
-    "opportunity_number": "PAR-25-024",
-    "opportunity_title": "Development of Biomarkers or Composite Biomarkers for Neurological and Neuromuscular Disorders (R61/R33 - Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 17.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "1154d950-fe5b-4fe7-b92e-70f016dff157",
-    "opportunity_number": "PAR-25-358",
-    "opportunity_title": "NEI Clinical Research Study Planning Grant Program (R34 Clinical Trial Not Allowed)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: research, study",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 22.0
+    "confidence_score": 25.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-243.html",
+    "suggested_title": "PAR-25-243 — ISG: clinical, tools, research, genetic",
+    "synopsis": "This application would address Basic Research in Cancer Health Disparities (R01 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on clinical, tools, research, genetic and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Molly Gale Hammell: Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS)..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in clinical, tools, research, genetic using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -1377,227 +336,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 39.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Liam Holt + Molly Gale Hammell",
-    "opportunity_id": "06339d3e-1543-4697-a7ed-345670f2bc0a",
-    "opportunity_number": "PAR-25-185",
-    "opportunity_title": "Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed)",
-    "members": [
-      "Liam Holt",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_liam_holt",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "2535c6aa-2e20-495b-9a25-5deabefc9f21",
-    "opportunity_number": "PAR-25-281",
-    "opportunity_title": "Mood and Psychosis Symptoms during the Menopause Transition (R01 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 20.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Liam Holt + Paolo Mita",
-    "opportunity_id": "aaa9e158-9d32-4122-ac02-2470defc2f0d",
-    "opportunity_number": "PA-25-307",
-    "opportunity_title": "NIH Exploratory/Developmental Research Project Grant (Parent R21 Basic Experimental Studies with Humans Required)",
-    "members": [
-      "Liam Holt",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_liam_holt",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: research, studies",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
-    "opportunity_id": "aaa9e158-9d32-4122-ac02-2470defc2f0d",
-    "opportunity_number": "PA-25-307",
-    "opportunity_title": "NIH Exploratory/Developmental Research Project Grant (Parent R21 Basic Experimental Studies with Humans Required)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: project, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 17.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "944cc2fe-ff34-430f-8a21-d34bccd2f5cd",
-    "opportunity_number": "PAR-25-286",
-    "opportunity_title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "e9c27c69-7360-4e0f-beb5-7ef69876f00c",
-    "opportunity_number": "PAR-25-227",
-    "opportunity_title": "Natural History of Disorders Screenable in the Newborn Period (R01 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 21.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "e9c27c69-7360-4e0f-beb5-7ef69876f00c",
-    "opportunity_number": "PAR-25-227",
-    "opportunity_title": "Natural History of Disorders Screenable in the Newborn Period (R01 Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "de571551-37bc-4b3a-a20e-87f3e9f15cb4",
-    "opportunity_number": "PAR-25-338",
-    "opportunity_title": "Academic-Industrial Partnerships for Translation of Technologies for Diagnosis and Treatment (R01 - Clinical Trial Not Allowed)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 17.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "de571551-37bc-4b3a-a20e-87f3e9f15cb4",
-    "opportunity_number": "PAR-25-338",
-    "opportunity_title": "Academic-Industrial Partnerships for Translation of Technologies for Diagnosis and Treatment (R01 - Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: technologies",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "e1dcb919-4710-49c3-9263-4849a1e8a507",
-    "opportunity_number": "PAR-25-207",
-    "opportunity_title": "Effectiveness Trials for Post-Acute Interventions and Services to Optimize Longer-term Outcomes (R01 Clinical Trial Required)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "efa5065c-2676-4b1a-b17f-d7e42dcfb3e4",
-    "opportunity_number": "PAR-25-188",
-    "opportunity_title": "NIDCR Behavioral and Social Intervention Clinical Trial Planning and Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 17.0
+    "confidence_score": 39.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-185.html",
+    "suggested_title": "PAR-25-185 — ISG: generation, sequencing, research, have",
+    "synopsis": "This application would address Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on generation, sequencing, research, have and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in generation, sequencing, research, have using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -1617,47 +365,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 31.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + Jef D. Boeke",
-    "opportunity_id": "1c7d1763-22ce-42c2-970f-dcc8c6921c6a",
-    "opportunity_number": "W911NF-23-S-0003",
-    "opportunity_title": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
-    "members": [
-      "Ran Brosh",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Liam Holt + David Fenyo",
-    "opportunity_id": "17f217b6-2106-4de0-a9db-2c13c1b58262",
-    "opportunity_number": "P23AS00132",
-    "opportunity_title": "NPS Cooperative Ecosystems Studies Units (CESU) Master Cooperative Agreements",
-    "members": [
-      "Liam Holt",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_liam_holt",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Shared terms: studies",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 16.0
+    "confidence_score": 31.0,
+    "opportunity_url": "https://www.army.mil/article/261533",
+    "suggested_title": "W911NF-23-S-0003 — ISG: has, research, applied, basis",
+    "synopsis": "This application would address DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH by integrating complementary expertise across the team. The proposed collaboration is centered on has, research, applied, basis and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in has, research, applied, basis using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -1677,47 +394,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 25.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "f0b6f88d-7241-42c5-ae81-ffff4c01f04e",
-    "opportunity_number": "RFA-HL-26-020",
-    "opportunity_title": "Catalyze: Product Definition  Medical Device Prototype Optimization (R33 - Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "c4dcba1f-96ec-4594-9b3a-e5b844ba7236",
-    "opportunity_number": "RFA-HL-26-018",
-    "opportunity_title": "Catalyze: Product Definition for Small Molecules, Biologics, and Combination Products - Preliminary Product/Lead Series Identification and Combination Product Prototype (R33 - Clinical Trial Not Allowed)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 18.0
+    "confidence_score": 25.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/rfa-files/RFA-HL-26-020.html",
+    "suggested_title": "RFA-HL-26-020 — ISG: has, human, clinical, tools",
+    "synopsis": "This application would address Catalyze: Product Definition  Medical Device Prototype Optimization (R33 - Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on has, human, clinical, tools and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Molly Gale Hammell: Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS)..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in has, human, clinical, tools using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -1737,87 +423,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 37.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "f0cca160-90c7-4d7b-97ff-b1c35d3733ad",
-    "opportunity_number": "RFA-HL-26-016",
-    "opportunity_title": "Catalyze: Enabling Technologies and Transformative Platforms for HLBS Research (R33 - Clinical Trials Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: research, technologies",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 21.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Ran Brosh + Jef D. Boeke",
-    "opportunity_id": "f0cca160-90c7-4d7b-97ff-b1c35d3733ad",
-    "opportunity_number": "RFA-HL-26-016",
-    "opportunity_title": "Catalyze: Enabling Technologies and Transformative Platforms for HLBS Research (R33 - Clinical Trials Not Allowed)",
-    "members": [
-      "Ran Brosh",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "078c6a60-731b-4c4f-bd44-d6ed7c5293c1",
-    "opportunity_number": "RFA-DA-26-055",
-    "opportunity_title": "Accelerating the Pace of Substance Use Research Using Existing Data (R01 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: data, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
-    "opportunity_id": "09e581fe-7695-4b3b-ab60-b5456bd788fd",
-    "opportunity_number": "RFA-DA-26-056",
-    "opportunity_title": "Accelerating the Pace of Substance Use Research Using Existing Data (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Shared terms: data, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
+    "confidence_score": 37.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/rfa-files/RFA-HL-26-019.html",
+    "suggested_title": "RFA-HL-26-019 — ISG: generation, design, research, have",
+    "synopsis": "This application would address Catalyze Product Definition  Medical Device prototype design/testing and disease target identification and assay development (R61/R33 - Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on generation, design, research, have and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in generation, design, research, have using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -1837,87 +452,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 25.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Ran Brosh",
-    "opportunity_id": "12b071b0-5e9c-4e61-99c6-7d31cd409eb8",
-    "opportunity_number": "PAR-25-244",
-    "opportunity_title": "Basic Research in Cancer Health Disparities (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Shared terms: cancer, health, research",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 24.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "72c16e90-9e1f-4fa0-8d67-db0423301955",
-    "opportunity_number": "PAR-25-265",
-    "opportunity_title": "Innovative Screening Approaches and Therapies for Screenable Disorders in Newborns (R01 - Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "f2962c5c-c50f-441d-b0c3-7a5aedbf597d",
-    "opportunity_number": "PAR-25-266",
-    "opportunity_title": "Innovative Screening Approaches and Therapies for Screenable Disorders in Newborns (R21 - Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "9a589956-ee54-442d-805f-3f62d29bf73c",
-    "opportunity_number": "PAR-24-321",
-    "opportunity_title": "NIA Academic Leadership Career Award (K07 Independent Clinical Trial Not Allowed)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
+    "confidence_score": 25.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-244.html",
+    "suggested_title": "PAR-25-244 — ISG: clinical, tools, research, genetic",
+    "synopsis": "This application would address Basic Research in Cancer Health Disparities (R21 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on clinical, tools, research, genetic and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Molly Gale Hammell: Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS)..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in clinical, tools, research, genetic using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "pair",
@@ -1937,169 +481,16 @@
     "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
     "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
     "confidence": "medium",
-    "confidence_score": 28.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Liam Holt + Molly Gale Hammell",
-    "opportunity_id": "9aea1523-3187-471c-859e-cacb890941c7",
-    "opportunity_number": "RFA-DA-27-004",
-    "opportunity_title": "BRAIN Initiative: Theories, Models and Methods for Analysis of Complex Data from the Brain (R01 Clinical Trial Not Allowed)",
-    "members": [
-      "Liam Holt",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_liam_holt",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 21.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "5a01de72-0d63-4009-852c-d2e64018c100",
-    "opportunity_number": "PAR-25-297",
-    "opportunity_title": "Alzheimer's Drug-Development Program (U01 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 19.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "f2a0e432-aac6-4caf-bc3a-a78ca52f4751",
-    "opportunity_number": "PAR-25-104",
-    "opportunity_title": "Cancer Prevention and Control Clinical Trials Planning Grant Program (R34 Clinical Trials Optional)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: cancer, program",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "830a45d7-9fd9-4000-bef1-4ec4e813664b",
-    "opportunity_number": "PAR-25-103",
-    "opportunity_title": "Cancer Prevention and Control Clinical Trials Planning Grant Program (U34 Clinical Trials Optional)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: cancer, program",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "f5586c5b-9add-44c1-9566-73ab7c7dd8b4",
-    "opportunity_number": "PAR-25-352",
-    "opportunity_title": "National Cooperative Drug/Device Discovery/Development Groups (NCDDG) for the Treatment of Mental Disorders (U01 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 23.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: Molly Gale Hammell + Paolo Mita",
-    "opportunity_id": "26162ad2-d8cc-4eb7-9e65-f6b5d9985c13",
-    "opportunity_number": "PAR-25-353",
-    "opportunity_title": "National Cooperative Drug/Device Discovery/Development Groups (NCDDG) for the Treatment of Mental Disorders (U19 Clinical Trial Optional)",
-    "members": [
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 21.0
-  },
-  {
-    "team_type": "pair",
-    "team_name": "Institute for Systems Genetics pair: David Fenyo + Jef D. Boeke",
-    "opportunity_id": "5ed4cdfe-bc42-4ccb-b082-b0f0b4002bac",
-    "opportunity_number": "PAR-25-060",
-    "opportunity_title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE):  Development and Validation of Model Systems to Facilitate Neurotherapeutic Discovery (R61/R33 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Shared terms: systems",
-    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
-    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
-    "confidence": "medium",
-    "confidence_score": 15.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "fbe9738b-8440-4690-a838-9d0f99d9e777",
-    "opportunity_number": "N00244-26-S-NPS-F001",
-    "opportunity_title": "Research Initiatives at the Naval Postgraduate School",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 26.0
+    "confidence_score": 28.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/rfa-files/RFA-DA-27-004.html",
+    "suggested_title": "RFA-DA-27-004 — ISG: systems, such, models, including",
+    "synopsis": "This application would address BRAIN Initiative: Theories, Models and Methods for Analysis of Complex Data from the Brain (R01 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on systems, such, models, including and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Jef D. Boeke: Leads a synthetic genomics and genome writing program focused on designing, assembling, and installing very large DNA constructs to interrogate genome regulation and build faithful disease models. Develops genome writing pipelines that combine yeast based assembly of multi segment loci with targeted delivery into yeast and mouse embryonic stem cells using strategies such as Big IN and mSwAP In..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in systems, such, models, including using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "team",
@@ -2121,7 +512,16 @@
     "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
     "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
     "confidence": "medium",
-    "confidence_score": 65.0
+    "confidence_score": 65.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003164 — ISG: including, research, apply, tools",
+    "synopsis": "This application would address SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS) by integrating complementary expertise across the team. The proposed collaboration is centered on including, research, apply, tools and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in including, research, apply, tools using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "team",
@@ -2143,51 +543,16 @@
     "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
     "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
     "confidence": "medium",
-    "confidence_score": 59.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, David Fenyo et al",
-    "opportunity_id": "3df028f3-f97a-4cdf-9359-1c6515d091ce",
-    "opportunity_number": "PA-26-002",
-    "opportunity_title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 23.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "131fabad-5506-431b-b87a-e564f1d8dcc4",
-    "opportunity_number": "PAR-26-042",
-    "opportunity_title": "Research Grants in Clinical Informatics (R01 Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 37.0
+    "confidence_score": 59.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003467 — ISG: including, apply, systems, have",
+    "synopsis": "This application would address SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY by integrating complementary expertise across the team. The proposed collaboration is centered on including, apply, systems, have and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation.; Jef D. Boeke: Leads a synthetic genomics and genome writing program focused on designing, assembling, and installing very large DNA constructs to interrogate genome regulation and build faithful disease models. Develops genome writing pipelines that combine yeast based assembly of multi segment loci with targeted delivery into yeast and mouse embryonic stem cells using strategies such as Big IN and mSwAP In..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in including, apply, systems, have using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "team",
@@ -2209,161 +574,16 @@
     "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
     "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
     "confidence": "medium",
-    "confidence_score": 40.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "a3fe5760-281e-4303-aac7-08dcea8327c2",
-    "opportunity_number": "PAR-26-134",
-    "opportunity_title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 25.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, Jef D. Boeke et al",
-    "opportunity_id": "5fc9e460-abc2-4c8b-b02e-25090753f213",
-    "opportunity_number": "RFA-OD-25-010",
-    "opportunity_title": "Resource-Related Research Projects for Development of Models and Related Materials for Studying Human Health and Diseases (R24 Clinical Trials Not Allowed)",
-    "members": [
-      "Ran Brosh",
-      "Jef D. Boeke",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_jef_d_boeke",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 36.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Jef D. Boeke et al",
-    "opportunity_id": "d88aea72-290a-4396-83ba-139886a6ffc8",
-    "opportunity_number": "PAR-26-033",
-    "opportunity_title": "NIGMS Institutional Biomedical Undergraduate Research Training (BURT) Program (T34)",
-    "members": [
-      "David Fenyo",
-      "Jef D. Boeke",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_jef_d_boeke",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, David Fenyo et al",
-    "opportunity_id": "8e4a156c-436f-47fe-9f8b-b82ca0ca901e",
-    "opportunity_number": "PAR-23-202",
-    "opportunity_title": "Vet-LIRN Capacity-Building Project and Equipment Grants (U18)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Molly Gale Hammell, Ran Brosh et al",
-    "opportunity_id": "c4e59dd9-c37c-467e-ad94-b704cb0211f4",
-    "opportunity_number": "PAR-25-449",
-    "opportunity_title": "Mind and Body Interventions to Restore Whole Person Health via Emotional Well-Being Mechanisms (R61/R33 Clinical Trial Required)",
-    "members": [
-      "Molly Gale Hammell",
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "59c3ea57-ba49-4e96-9706-0528937de746",
-    "opportunity_number": "PAR-26-121",
-    "opportunity_title": "Maximizing Investigators' Research Award (MIRA) (R35 - Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 28.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Jef D. Boeke, David Fenyo et al",
-    "opportunity_id": "8ad02b0a-1712-4da7-9ce5-247363b661ab",
-    "opportunity_number": "W911NF-23-S-0010",
-    "opportunity_title": "UNITED STATES ARMY RESEARCH INSTITUTE FOR THE BEHAVIORAL AND SOCIAL SCIENCES (ARI) BROAD AGENCY ANNOUNCEMENT FOR BASIC, APPLIED, AND ADVANCED SCIENTIFIC RESEARCH",
-    "members": [
-      "Jef D. Boeke",
-      "David Fenyo",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_jef_d_boeke",
-      "intake_david_fenyo",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 22.0
+    "confidence_score": 40.0,
+    "opportunity_url": "https://www.grants.gov/search-results-detail/359003",
+    "suggested_title": "PAR-26-040 — ISG: biology, research, approaches, such",
+    "synopsis": "This application would address Advancing Bioinformatics, Translational Bioinformatics and Computational Biology Research (R01 Clinical Trial Optional) by integrating complementary expertise across the team. The proposed collaboration is centered on biology, research, approaches, such and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in biology, research, approaches, such using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "team",
@@ -2385,297 +605,16 @@
     "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
     "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
     "confidence": "medium",
-    "confidence_score": 43.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, David Fenyo et al",
-    "opportunity_id": "bdd8e776-8fcc-4740-a784-2f8a95921e0a",
-    "opportunity_number": "RFA-OH-22-006",
-    "opportunity_title": "Commercial Fishing Occupational Safety Training Project Grants (T03)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 24.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, David Fenyo et al",
-    "opportunity_id": "1fd3d671-8469-40ac-bbd6-adac625cf082",
-    "opportunity_number": "PAR-25-144",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R01 Clinical Trial Optional)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 24.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "e77962cd-432d-4ef2-8658-04ebc1a1796d",
-    "opportunity_number": "PAR-25-145",
-    "opportunity_title": "Clinical Characterization of Cancer Therapy-induced Adverse Sequelae and Mechanism-based Interventional Strategies (R01 Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 32.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Liam Holt et al",
-    "opportunity_id": "d91c6831-95b8-4598-90e1-255b03260d44",
-    "opportunity_number": "PAR-25-091",
-    "opportunity_title": "Limited Competition: Small Grant Program for NIDDK K01/K08/K23/K25 Recipients (R03 Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Liam Holt",
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_liam_holt",
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 30.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "da13f6fa-c132-4963-9339-3c75046c75e8",
-    "opportunity_number": "PAR-25-124",
-    "opportunity_title": "NCMRR Early Career Research Award (R03 Clinical Trial Optional)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 23.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Liam Holt, Jef D. Boeke et al",
-    "opportunity_id": "0d6ff094-5630-499b-8ff8-d4f7e8d62d9c",
-    "opportunity_number": "PAR-24-311",
-    "opportunity_title": "Molecular Imaging of Inflammation in Cancer (R01 Clinical Trial Not Allowed)",
-    "members": [
-      "Liam Holt",
-      "Jef D. Boeke",
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_liam_holt",
-      "intake_jef_d_boeke",
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 33.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Ran Brosh et al",
-    "opportunity_id": "03a6eccc-2913-443a-8b8e-7603a32e2f8d",
-    "opportunity_number": "PAR-25-273",
-    "opportunity_title": "Development of Animal Models and Related Biological Materials for Research (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Ran Brosh",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_ran_brosh",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 31.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, David Fenyo et al",
-    "opportunity_id": "04cf4e58-5a89-47a9-b4c7-a1388edac495",
-    "opportunity_number": "PAR-25-233",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R03 Clinical Trial Not Allowed)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "2a37bfc5-4ec7-481a-ab43-f5126ec21aa4",
-    "opportunity_number": "PA-25-150",
-    "opportunity_title": "Joint NINDS/NIMH Exploratory Neuroscience Research Grant (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 30.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Ran Brosh et al",
-    "opportunity_id": "b5cded22-b04f-4a83-b907-8121c44a2568",
-    "opportunity_number": "PAR-25-243",
-    "opportunity_title": "Basic Research in Cancer Health Disparities (R01 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Ran Brosh",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_ran_brosh",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 36.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, David Fenyo et al",
-    "opportunity_id": "c0eb03bb-3e20-459f-850e-a8cf1e1271c1",
-    "opportunity_number": "PA-25-306",
-    "opportunity_title": "NIH Exploratory/Developmental Research Project Grant (Parent R21 Clinical Trial Required)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, David Fenyo et al",
-    "opportunity_id": "1380cf9c-4561-45a6-a85d-7866dd308ef0",
-    "opportunity_number": "PAR-25-143",
-    "opportunity_title": "Dissemination and Implementation Research in Health (R21 Clinical Trial Optional)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Ran Brosh, David Fenyo et al",
-    "opportunity_id": "1154d950-fe5b-4fe7-b92e-70f016dff157",
-    "opportunity_number": "PAR-25-358",
-    "opportunity_title": "NEI Clinical Research Study Planning Grant Program (R34 Clinical Trial Not Allowed)",
-    "members": [
-      "Ran Brosh",
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_ran_brosh",
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 26.0
+    "confidence_score": 43.0,
+    "opportunity_url": "https://www.grants.gov/search-results-detail/334971",
+    "suggested_title": "RFA-OH-22-005 — ISG: research, including, design, has",
+    "synopsis": "This application would address Commercial Fishing Occupational Safety Research Cooperative Agreement (U01) by integrating complementary expertise across the team. The proposed collaboration is centered on research, including, design, has and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in research, including, design, has using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "team",
@@ -2699,29 +638,16 @@
     "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
     "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
     "confidence": "medium",
-    "confidence_score": 55.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Molly Gale Hammell, Ran Brosh et al",
-    "opportunity_id": "944cc2fe-ff34-430f-8a21-d34bccd2f5cd",
-    "opportunity_number": "PAR-25-286",
-    "opportunity_title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "Molly Gale Hammell",
-      "Ran Brosh",
-      "David Fenyo"
-    ],
-    "member_ids": [
-      "intake_molly_gale_hammell",
-      "intake_ran_brosh",
-      "intake_david_fenyo"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 23.0
+    "confidence_score": 55.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-185.html",
+    "suggested_title": "PAR-25-185 — ISG: genome, research, approaches, including",
+    "synopsis": "This application would address Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on genome, research, approaches, including and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation.; Molly Gale Hammell: Molly Gale Hammell is an Associate Professor in the Institute for Systems Genetics at NYU Langone Health. Her research portfolio centers on computational and quantitative genetic approaches, focusing on the regulation and function of transposable elements in the human genome, RNA biology, and data-driven studies of neurodegeneration, particularly Amyotrophic Lateral Sclerosis (ALS).; Liam Holt: Biophysics of signaling / biomolecular condensates / gene regulation under stress.",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in genome, research, approaches, including using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "team",
@@ -2743,185 +669,16 @@
     "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
     "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
     "confidence": "medium",
-    "confidence_score": 39.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Liam Holt, David Fenyo et al",
-    "opportunity_id": "17f217b6-2106-4de0-a9db-2c13c1b58262",
-    "opportunity_number": "P23AS00132",
-    "opportunity_title": "NPS Cooperative Ecosystems Studies Units (CESU) Master Cooperative Agreements",
-    "members": [
-      "Liam Holt",
-      "David Fenyo",
-      "Jef D. Boeke"
-    ],
-    "member_ids": [
-      "intake_liam_holt",
-      "intake_david_fenyo",
-      "intake_jef_d_boeke"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 23.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Jef D. Boeke, Liam Holt et al",
-    "opportunity_id": "c4dcba1f-96ec-4594-9b3a-e5b844ba7236",
-    "opportunity_number": "RFA-HL-26-018",
-    "opportunity_title": "Catalyze: Product Definition for Small Molecules, Biologics, and Combination Products - Preliminary Product/Lead Series Identification and Combination Product Prototype (R33 - Clinical Trial Not Allowed)",
-    "members": [
-      "Jef D. Boeke",
-      "Liam Holt",
-      "Molly Gale Hammell",
-      "Paolo Mita"
-    ],
-    "member_ids": [
-      "intake_jef_d_boeke",
-      "intake_liam_holt",
-      "intake_molly_gale_hammell",
-      "intake_paolo_mita"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 23.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: Jef D. Boeke, Liam Holt et al",
-    "opportunity_id": "b2b577a9-12ef-4005-b962-2d3922b922bf",
-    "opportunity_number": "RFA-HL-26-019",
-    "opportunity_title": "Catalyze Product Definition  Medical Device prototype design/testing and disease target identification and assay development (R61/R33 - Clinical Trial Not Allowed)",
-    "members": [
-      "Jef D. Boeke",
-      "Liam Holt",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_jef_d_boeke",
-      "intake_liam_holt",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 31.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "f0cca160-90c7-4d7b-97ff-b1c35d3733ad",
-    "opportunity_number": "RFA-HL-26-016",
-    "opportunity_title": "Catalyze: Enabling Technologies and Transformative Platforms for HLBS Research (R33 - Clinical Trials Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 34.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "078c6a60-731b-4c4f-bd44-d6ed7c5293c1",
-    "opportunity_number": "RFA-DA-26-055",
-    "opportunity_title": "Accelerating the Pace of Substance Use Research Using Existing Data (R01 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 27.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "09e581fe-7695-4b3b-ab60-b5456bd788fd",
-    "opportunity_number": "RFA-DA-26-056",
-    "opportunity_title": "Accelerating the Pace of Substance Use Research Using Existing Data (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 27.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
-    "opportunity_id": "5e185327-5f25-4c09-889a-43615e1f54da",
-    "opportunity_number": "W911NF-23-S-0001",
-    "opportunity_title": "DEVCOM ARMY RESEARCH LABORATORY BROAD AGENCY ANNOUNCEMENT FOR FOUNDATIONAL RESEARCH",
-    "members": [
-      "David Fenyo",
-      "Paolo Mita",
-      "Ran Brosh"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_paolo_mita",
-      "intake_ran_brosh"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 22.0
-  },
-  {
-    "team_type": "team",
-    "team_name": "Institute for Systems Genetics team: David Fenyo, Ran Brosh et al",
-    "opportunity_id": "12b071b0-5e9c-4e61-99c6-7d31cd409eb8",
-    "opportunity_number": "PAR-25-244",
-    "opportunity_title": "Basic Research in Cancer Health Disparities (R21 Clinical Trial Not Allowed)",
-    "members": [
-      "David Fenyo",
-      "Ran Brosh",
-      "Molly Gale Hammell"
-    ],
-    "member_ids": [
-      "intake_david_fenyo",
-      "intake_ran_brosh",
-      "intake_molly_gale_hammell"
-    ],
-    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
-    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
-    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
-    "confidence": "medium",
-    "confidence_score": 36.0
+    "confidence_score": 39.0,
+    "opportunity_url": "https://www.army.mil/article/261533",
+    "suggested_title": "W911NF-23-S-0003 — ISG: research, has, applied, large",
+    "synopsis": "This application would address DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH by integrating complementary expertise across the team. The proposed collaboration is centered on research, has, applied, large and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in research, has, applied, large using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   },
   {
     "team_type": "team",
@@ -2943,6 +700,15 @@
     "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
     "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
     "confidence": "medium",
-    "confidence_score": 39.0
+    "confidence_score": 39.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/rfa-files/RFA-DA-27-004.html",
+    "suggested_title": "RFA-DA-27-004 — ISG: such, models, including, systems",
+    "synopsis": "This application would address BRAIN Initiative: Theories, Models and Methods for Analysis of Complex Data from the Brain (R01 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on such, models, including, systems and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation.; Jef D. Boeke: Leads a synthetic genomics and genome writing program focused on designing, assembling, and installing very large DNA constructs to interrogate genome regulation and build faithful disease models. Develops genome writing pipelines that combine yeast based assembly of multi segment loci with targeted delivery into yeast and mouse embryonic stem cells using strategies such as Big IN and mSwAP In..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in such, models, including, systems using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
   }
 ]
