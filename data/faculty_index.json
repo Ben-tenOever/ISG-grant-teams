@@ -104,6 +104,36 @@
           "endometrial carcinoma",
           "biomarkers"
         ]
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/1-s2.0-S1535610823002477-main_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/1-s2.0-S2666379123003269-main_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/2025.07.18.665587v1.full_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/2025.10.03.680361.full_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/s41551-025-01348-1_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
       }
     ],
     "common_experiments_raw": "Computational analysis of omics and imaging data",
@@ -277,6 +307,36 @@
         "year": null,
         "venue": "review or manifesto",
         "file": "20251020 The Constructionist Manifesto_v9_pap_anonymous.pdf"
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Boeke, Jef/20251020 The Constructionist Manifesto_v9_pap_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Boeke, Jef/Assemblatron Manuscript v3.4_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Boeke, Jef/MOLECULAR-CELL-S-23-02084 (reduced)_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Boeke, Jef/TAF1 manuscript_0816_clean_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Boeke, Jef/final nature published_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
       }
     ],
     "common_experiments_raw": "Yeast based assembly of large DNA payloads in yeast assembly vectors (YAVs) and verification by sequencing\nLanding pad installation and payload replacement using Cre mediated cassette exchange (RMCE) or CRISPR Cas9 based mSwAP In and related approaches\nHigh throughput and automated big DNA assembly workflows using JIB or SURE vectors and oligo pool derived linkers (OLIGARCHY)\nGenotyping and structural validation using targeted capture sequencing (Capture seq) plus whole genome sequencing when needed\nFunctional readouts including ATAC seq, RNA seq, CAGE seq, CUT and RUN and Hi C depending on the question\nPreclinical genome editing based disease modeling in mouse embryonic stem cells including TAF1 hybrid humanized alleles and CRISPRa rescue strategies"
@@ -335,7 +395,37 @@
       "2022-Sang-MolCell_anonymous.pdf",
       "2022-Gutierrez-eLife_anonymous.pdf",
       "2022-Alric-Nature-Physics_anonymous.pdf",
-      "2018-Delarue-Cell_anonymous.pdf"
+      "2018-Delarue-Cell_anonymous.pdf",
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Holt, Liam/2018-Delarue-Cell_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Holt, Liam/2022-Alric-Nature-Physics_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Holt, Liam/2022-Gutierrez-eLife_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Holt, Liam/2022-Sang-MolCell_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Holt, Liam/2024-Xie-Polysome-MolCell_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
     ],
     "common_experiments_raw": "GEMs-Based Microrheology\n* Genetically encoded nanoparticle tracking to measure intracellular viscoelasticity, crowding, and active matter across organelles\nMechanical Perturbation Systems\n* Compression devices, tunable synthetic hydrogels, and osmotic manipulation to control cellular mechanical environment\nLive-Cell Single-Particle Tracking\n* High-throughput fluorescence microscopy with computational analysis of molecular diffusion and dynamics\nSynthetic Biology & Protein Engineering\n* Design of synthetic condensates (SynDrops), engineered transcription factors, and AI-designed proteins\nReal-Time Metabolic Biosensors\n* ATP and pH sensors for live monitoring of cellular energetics"
   },
@@ -356,7 +446,39 @@
     "focus_groups": [
       "Organoids"
     ],
-    "common_experiments_raw": "Stem cell modeling through iPSC differentiation into neurons, astrocytes, and microglia. CRISPR mediated manipulation of gene expression (CRISPRi, CRISPRa). Genomics and epigenomics profiling of cells and postmortem tissues (RNA-seq, MeDIP-seq, Cut&Run, MeRIP-seq, long-read-RNA-seq, nuc-seq, scRNA-seq). Single-cell analysis. AI-driven data analysis. Tissue & cell staining with immunofluorescence and IHC.\n\nGenomics, Epigenomics, and Transcriptomics (RNA-seq, Cut&Run, MeDip-seq, MeRIP-seq, Iso-seq). Single-cell genomics (snRNA-seq, scRNA-seq, nuc-seq). iPSC-derived culture of neurons, astrocytes, and microglia. Neural 3D organoid culture. CRISPR mediated gene manipulation (CRISPRi, CRISPRa). Bioinformatics. Multi-omics integration. Analysis of transposons (TEs) and endogenous retroviruses (ERVs). Machine learning methods development."
+    "common_experiments_raw": "Stem cell modeling through iPSC differentiation into neurons, astrocytes, and microglia. CRISPR mediated manipulation of gene expression (CRISPRi, CRISPRa). Genomics and epigenomics profiling of cells and postmortem tissues (RNA-seq, MeDIP-seq, Cut&Run, MeRIP-seq, long-read-RNA-seq, nuc-seq, scRNA-seq). Single-cell analysis. AI-driven data analysis. Tissue & cell staining with immunofluorescence and IHC.\n\nGenomics, Epigenomics, and Transcriptomics (RNA-seq, Cut&Run, MeDip-seq, MeRIP-seq, Iso-seq). Single-cell genomics (snRNA-seq, scRNA-seq, nuc-seq). iPSC-derived culture of neurons, astrocytes, and microglia. Neural 3D organoid culture. CRISPR mediated gene manipulation (CRISPRi, CRISPRa). Bioinformatics. Multi-omics integration. Analysis of transposons (TEs) and endogenous retroviruses (ERVs). Machine learning methods development.",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Hammell, Molly Gale/2015_Jin_TEtranscripts_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Hammell, Molly Gale/2019_Tam_ALSsubtypes_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Hammell, Molly Gale/2019_Tam_Review_TransposonsNeurodegeneration_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Hammell, Molly Gale/2025_ONeill_ALSsubtypes_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Hammell, Molly Gale/Garza_TEs_PD_Interferon_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_paolo_mita",
@@ -464,6 +586,24 @@
       },
       {
         "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/Brosh-2021-A versatile platform for locus-sca_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/2025.10.07.680816.full_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/Zhang-2023-Mouse genome rewriting and tailori_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/Zhao-2023-CREEPY_ CRISPR-mediated editing of_anonymous.pdf",
         "title": null,
         "year": null,
         "doi": null
