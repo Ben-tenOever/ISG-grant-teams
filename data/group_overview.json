@@ -1,0 +1,34 @@
+{
+  "label": "ISG",
+  "overview": "ISG brings together 6 investigators working across X linked dystonia parkinsonism, proteomics, multi-omics integration, proteogenomics, machine learning. Collectively, the group spans strengths in sequencing, crispr, mouse, imaging, microscopy. This site provides within group pair and multi investigator team suggestions derived only from the group roster to keep matches in scope.",
+  "stats": {
+    "faculty_count": 6,
+    "pairs_count": 400,
+    "teams3plus_count": 125,
+    "opportunities_covered": 200
+  },
+  "top_themes": [
+    "X linked dystonia parkinsonism",
+    "proteomics",
+    "multi-omics integration",
+    "proteogenomics",
+    "machine learning",
+    "deep learning",
+    "computational pathology",
+    "multiplexed imaging",
+    "spatial omics",
+    "cancer biology"
+  ],
+  "top_approaches": [
+    "sequencing",
+    "crispr",
+    "mouse",
+    "imaging",
+    "microscopy",
+    "proteomics",
+    "omics",
+    "stem",
+    "human",
+    "rna"
+  ]
+}
