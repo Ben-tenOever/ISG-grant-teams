@@ -455,7 +455,19 @@
       "Zhang-2023-Mouse genome rewriting and tailori_anonymous.pdf",
       "Brosh-2021-A versatile platform for locus-sca_anonymous.pdf",
       "Brosh Mol Cell 2023 with supplement_anonymous.pdf",
-      "2025.10.07.680816.full_anonymous.pdf"
+      "2025.10.07.680816.full_anonymous.pdf",
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/Brosh Mol Cell 2023 with supplement_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Brosh, Ran/Brosh-2021-A versatile platform for locus-sca_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
     ],
     "common_experiments_raw": "*Mammalian genome writing\n*Big-IN (genome writing)\n*mSwAP-In (genome writing)\n*CREEPY (CRSIPR editing of episomes in yeast)\nDNA assembly\nSynthetic biology\nCRISPR/Cas9\nPCR, qRT-PCR\nRNA-seq\nIllumina sequencing\nNanopore sequencing\nBlastocyst injection\nPronuclear microinjection\nIn vitro fertilization\nRederivation\nSperm and embryo cryopreservation"
   }
