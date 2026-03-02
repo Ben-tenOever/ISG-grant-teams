@@ -1,0 +1,120 @@
+[
+  {
+    "team_type": "pair",
+    "team_name": "Institute for Systems Genetics pair: David Fenyo + Paolo Mita",
+    "opportunity_id": "cd4dd647-b2b4-49d9-aac3-0033d0eb434c",
+    "opportunity_number": "DE-FOA-0003164",
+    "opportunity_title": "SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS)",
+    "members": [
+      "David Fenyo",
+      "Paolo Mita"
+    ],
+    "member_ids": [
+      "intake_david_fenyo",
+      "intake_paolo_mita"
+    ],
+    "rationale": "Shared terms: research",
+    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
+    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
+    "confidence": "medium",
+    "confidence_score": 53.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003164",
+    "synopsis": "This application would address SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS) by integrating complementary expertise across the team. The proposed collaboration is centered on tools, including, which, processes and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in tools, including, which, processes using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Institute for Systems Genetics pair: David Fenyo + Ran Brosh",
+    "opportunity_id": "fd281670-a13c-4cd9-a526-7bb67a98d227",
+    "opportunity_number": "DE-FOA-0003467",
+    "opportunity_title": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
+    "members": [
+      "David Fenyo",
+      "Ran Brosh"
+    ],
+    "member_ids": [
+      "intake_david_fenyo",
+      "intake_ran_brosh"
+    ],
+    "rationale": "Shared terms: leading, technologies",
+    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
+    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
+    "confidence": "medium",
+    "confidence_score": 49.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003467",
+    "synopsis": "This application would address SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY by integrating complementary expertise across the team. The proposed collaboration is centered on apply, including, have, research and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in apply, including, have, research using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Institute for Systems Genetics pair: Ran Brosh + David Fenyo",
+    "opportunity_id": "06339d3e-1543-4697-a7ed-345670f2bc0a",
+    "opportunity_number": "PAR-25-185",
+    "opportunity_title": "Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed)",
+    "members": [
+      "Ran Brosh",
+      "David Fenyo"
+    ],
+    "member_ids": [
+      "intake_ran_brosh",
+      "intake_david_fenyo"
+    ],
+    "rationale": "Shared terms: validation",
+    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
+    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
+    "confidence": "medium",
+    "confidence_score": 39.0,
+    "opportunity_url": "http://grants.nih.gov/grants/guide/pa-files/PAR-25-185.html",
+    "suggested_title": "PAR-25-185",
+    "synopsis": "This application would address Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed) by integrating complementary expertise across the team. The proposed collaboration is centered on generation, sequencing, research, have and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in generation, sequencing, research, have using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  },
+  {
+    "team_type": "team",
+    "team_name": "Institute for Systems Genetics team: David Fenyo, Paolo Mita et al",
+    "opportunity_id": "cd4dd647-b2b4-49d9-aac3-0033d0eb434c",
+    "opportunity_number": "DE-FOA-0003164",
+    "opportunity_title": "SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS)",
+    "members": [
+      "David Fenyo",
+      "Paolo Mita",
+      "Ran Brosh"
+    ],
+    "member_ids": [
+      "intake_david_fenyo",
+      "intake_paolo_mita",
+      "intake_ran_brosh"
+    ],
+    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
+    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
+    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
+    "confidence": "medium",
+    "confidence_score": 65.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003164",
+    "synopsis": "This application would address SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS) by integrating complementary expertise across the team. The proposed collaboration is centered on including, research, apply, tools and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Ran Brosh: I have two roles: [1] as Faculty at ISG/Pathology I am leading the Dark Matter Project, a collaborative effort to use synthetic biology and genome writing to study the noncoding genome and its roles in health and disease. We develop method to build and deliver large DNA constructs to mammalian cells (primarily mouse embryonic stem cells) and apply them to generate mouse models for human diseases or in vitro cell models to study basic aspects of transcriptional regulation..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in including, research, apply, tools using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  }
+]
